@@ -12,10 +12,10 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-      <h1 className={styles.p}>The Gospels </h1>
+      <h1 className={styles.p}>The Gospel (Good News) </h1>
       <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
         
-       <h1 className={styles.title}><a href="https://en.wikipedia.org/wiki/Jesus">of Jesus Christ</a>
+       <h1 className={styles.title}><a href="https://en.wikipedia.org/wiki/Jesus">about Jesus Christ</a>
         </h1>
         
         <p className={styles.description}>
@@ -53,7 +53,7 @@ export default function Home() {
             <p>And this was his message: “After me comes the one more powerful than I, the straps of whose sandals I am not worthy to stoop down and untie.</p>
             <p>I baptize you with water, but he will baptize you with the Holy Spirit.”</p>
             <p>
-            <Image className={styles.christ} src="/peace_jesus.jpeg" alt="title" width={200} height={200}  />
+            <Image className={styles.christ} src="/worship_jesus.jpeg" alt="title" width={200} height={200}  />
             At that time Jesus came from Nazareth in Galilee and was baptized by John in the Jordan.
             </p>
             <p>Just as Jesus was coming up out of the water, he saw heaven being torn open and the Spirit descending on him like a dove.</p>
@@ -64,10 +64,22 @@ export default function Home() {
             className={styles.card}
           >
             <h1 className={styles.h1}>The Testing of Jesus &rarr;</h1>
-            <Image src="/thumbs_up.jpeg" alt="Vercel Logo" width={200} height={200} />
+            <Image src="/walking_on_water.jpeg" alt="Vercel Logo" width={300} height={300} />
           <p>At once the Spirit sent him out into the wilderness, and he was in the wilderness forty days, being tempted by Satan. He was with the wild animals, and angels attended him.</p>
          <p>After John was put in prison, Jesus went into Galilee, proclaiming the good news of God.</p>
          <p>“The time has come,” he said. “The kingdom of God has come near. Repent and believe the good news!”</p>
+          </a>
+
+          <a
+            href=""
+            className={styles.card}
+          >
+            <h1 className={styles.h1}> Jesus Calls His First Disciples &rarr;</h1>
+            <Image src="/thumbs_up.jpeg" alt="Vercel Logo" width={300} height={300} />
+           
+<p>As Jesus walked beside the Sea of Galilee, he saw Simon and his brother Andrew casting a net into the lake, for they were fishermen. “Come, follow me,” Jesus said, “and I will send you out to fish for people.” At once they left their nets and followed him.</p>
+
+ <p>When he had gone a little farther, he saw James son of Zebedee and his brother John in a boat, preparing their nets. Without delay he called them, and they left their father Zebedee in the boat with the hired men and followed him.</p>
           </a>
         </div>
       </main>
