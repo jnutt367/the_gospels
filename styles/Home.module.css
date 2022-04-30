@@ -28,6 +28,10 @@
     flex-grow: 1;
 }
 
+.christ {
+    padding: 100px;
+}
+
 .title a {
     font-family: cursive;
     color: rgb(196, 147, 185);
@@ -101,8 +105,8 @@
 .card:hover,
 .card:focus,
 .card:active {
-    color: #0070f3;
-    border-color: #0070f3;
+    color: rgb(196, 147, 185);
+    border-color: rgb(172, 159, 168);
 }
 
 .card h2 {
