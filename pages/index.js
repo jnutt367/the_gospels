@@ -12,47 +12,62 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
+      <Image className={styles.dogs} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
         <h1 className={styles.title}>
-          The Gospels <a href="https://nextjs.org">of Jesus Christ</a>
+          The Gospels <a href="https://en.wikipedia.org/wiki/Jesus">of Jesus Christ</a>
         </h1>
-
+        
         <p className={styles.description}>
           Beginning with Mark
           <code className={styles.code}>Under Construction</code>
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
+          <a href="mark" className={styles.card1}>
+            <h2>Mark Chapter 1 &rarr;</h2>
+            <h1 className={styles.h1}>The Beginning of the Gospel</h1>
+            <p>The beginning of the good news about Jesus the Messiah, the Son of God, as it is written in Isaiah the prophet:“I will send my messenger ahead of you,
+    who will prepare your way” “a voice of one calling in the wilderness,
+‘Prepare the way for the Lord,
+    make straight paths for him.’”</p>
+    
           </a>
-
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+        
+          <a href="#" className={styles.card}>
+            <h2 className={styles.h1} >John the Baptist Prepares the Way &rarr;</h2>
+            <p><p>And so John the Baptist appeared in the wilderness, preaching a baptism of repentance for the forgiveness of sins. </p>
+<p>The whole Judean countryside and all the people of Jerusalem went out to him. Confessing their sins, they were baptized by him in the Jordan River.</p></p>
+          <p>John wore clothing made of camel’s hair, with a leather belt around his waist, and he ate locusts and wild honey.</p>
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
+            href="#"
             className={styles.card}
           >
-            <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <h2 className={styles.h1}> The Message &rarr;</h2>
+            <p>And this was his message: “After me comes the one more powerful than I, the straps of whose sandals I am not worthy to stoop down and untie.</p>
+            <p>I baptize you with water, but he will baptize you with the Holy Spirit.”</p>
+            <p>
+            At that time Jesus came from Nazareth in Galilee and was baptized by John in the Jordan.
+            </p>
+            <p>Just as Jesus was coming up out of the water, he saw heaven being torn open and the Spirit descending on him like a dove.</p>
           </a>
 
           <a
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h2>Deploy &rarr;</h2>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
+            <h1 className={styles.h1}>The Testing of Jesus &rarr;</h1>
+           
+          <p>At once the Spirit sent him out into the wilderness, and he was in the wilderness forty days, being tempted by Satan. He was with the wild animals, and angels attended him.</p>
+         <p>After John was put in prison, Jesus went into Galilee, proclaiming the good news of God.</p>
+         <p>“The time has come,” he said. “The kingdom of God has come near. Repent and believe the good news!”</p>
           </a>
         </div>
       </main>
 
       <footer className={styles.footer}>
+      
         <a
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
           target="_blank"
@@ -60,7 +75,8 @@ export default function Home() {
         >
           Powered by{' '}
           <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
+      
+            <Image src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="Vercel Logo" width={200} height={200} />
           </span>
         </a>
       </footer>
