@@ -82,6 +82,88 @@ export default function Home() {
  <p>When he had gone a little farther, he saw James son of Zebedee and his brother John in a boat, preparing their nets. Without delay he called them, and they left their father Zebedee in the boat with the hired men and followed him.</p>
           </a>
         </div>
+
+
+
+
+
+
+
+
+
+
+        <div className={styles.grid}>
+          <a href="" className={styles.card1}>
+         
+            <h1 className={styles.h1}>Jesus Drives Out an Impure Spirit
+ &rarr;</h1>
+            <p>They went to Capernaum, and when the Sabbath came, Jesus went into the synagogue and began to teach.</p>
+           
+            <p>The people were amazed at his teaching, because he taught them as one who had authority, not as the teachers of the law.</p>
+    <p>Just then a man in their synagogue who was possessed by an impure spirit cried out, “What do you want with us, Jesus of Nazareth?</p>
+    <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+          <p>Have you come to destroy us? I know who you are—the Holy One of God!” “Be quiet!” said Jesus sternly. “Come out of him!” The impure spirit shook the man violently and came out of him with a shriek.</p>
+          <p>The people were all so amazed that they asked each other, “What is this? A new teaching—and with authority! He even gives orders to impure spirits and they obey him.” News about him spread quickly over the whole region of Galilee.</p>
+          </a>
+        
+          <a href="" className={styles.card}>
+            <h2 className={styles.h1} >Jesus Heals Many &rarr;</h2>
+
+            <p>As soon as they left the synagogue, they went with James and John to the home of Simon and Andrew. </p>
+            <Image className={styles.christ} src="/1-jesus-christ-with-arms-wide-open-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+          <p>Simon’s mother-in-law was in bed with a fever, and they immediately told Jesus about her.</p>
+          <p>So he went to her, took her hand and helped her up. The fever left her and she began to wait on them.</p>
+          <p>That evening after sunset the people brought to Jesus all the sick and demon-possessed. The whole town gathered at the door, and Jesus healed many who had various diseases. He also drove out many demons, but he would not let the demons speak because they knew who he was.
+
+</p>
+          </a>
+
+          <a
+            href=""
+            className={styles.card}
+          >
+            <h2 className={styles.h1}> Jesus Prays in a Solitary Place &rarr;</h2>
+            <p>Very early in the morning, while it was still dark, Jesus got up, left the house and went off to a solitary place, where he prayed.</p>
+            <p>Simon and his companions went to look for him, 37 and when they found him, they exclaimed: “Everyone is looking for you!”</p>
+            <p>
+            <Image className={styles.christ} src="/worship_jesus.jpeg" alt="title" width={200} height={200}  />
+            Jesus replied, “Let us go somewhere else—to the nearby villages—so I can preach there also. That is why I have come.”
+            </p>
+            <p>So he traveled throughout Galilee, preaching in their synagogues and driving out demons.</p>
+          </a>
+
+          <a
+            href=""
+            className={styles.card}
+          >
+            <h1 className={styles.h1}>Jesus Heals a Man With Leprosy &rarr;</h1>
+           
+          <p>A man with leprosy came to him and begged him on his knees, “If you are willing, you can make me clean.”</p>
+         <p>Jesus was indignant. He reached out his hand and touched the man. “I am willing,” he said. “Be clean!”</p>
+         <p>Immediately the leprosy left him and he was cleansed.</p>
+         <Image src="/walking_on_water.jpeg" alt="Vercel Logo" width={300} height={300} />
+         <p>Jesus sent him away at once with a strong warning: “See that you don’t tell this to anyone. But go, show yourself to the priest and offer the sacrifices that Moses commanded for your cleansing, as a testimony to them.”</p>
+         <p>Instead he went out and began to talk freely, spreading the news. As a result, Jesus could no longer enter a town openly but stayed outside in lonely places.</p> <p>Yet the people still came to him from everywhere.
+         </p>
+          
+          </a>
+
+     
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       </main>
 
       <footer className={styles.footer}>
