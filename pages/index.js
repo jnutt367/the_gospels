@@ -24,7 +24,7 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="" className={styles.card1}>
+          <a href="javascript:void(0)" className={styles.card1}>
          
             <h1 className={styles.h1}>The Beginning of the Gospel &rarr;</h1>
             <p>The beginning of the good news about Jesus the Messiah, the Son of God, as it is written in Isaiah the prophet:</p>
@@ -36,7 +36,7 @@ export default function Home() {
     
           </a>
         
-          <a href="" className={styles.card}>
+          <a href="javascript:void(0)" className={styles.card}>
             <h2 className={styles.h1} >John the Baptist Prepares the Way &rarr;</h2>
 
             <p>And so John the Baptist appeared in the wilderness, preaching a baptism of repentance for the forgiveness of sins. </p>
@@ -46,7 +46,7 @@ export default function Home() {
           </a>
 
           <a
-            href=""
+            href="javascript:void(0)"
             className={styles.card}
           >
             <h2 className={styles.h1}> The Message &rarr;</h2>
@@ -60,7 +60,7 @@ export default function Home() {
           </a>
 
           <a
-            href=""
+            href="javascript:void(0)"
             className={styles.card}
           >
             <h1 className={styles.h1}>The Testing of Jesus &rarr;</h1>
@@ -71,7 +71,7 @@ export default function Home() {
           </a>
 
           <a
-            href=""
+            href="javascript:void(0)"
             className={styles.card}
           >
             <h1 className={styles.h1}> Jesus Calls His First Disciples &rarr;</h1>
@@ -93,7 +93,7 @@ export default function Home() {
 
 
         <div className={styles.grid}>
-          <a href="" className={styles.card1}>
+          <a href="javascript:void(0)" className={styles.card1}>
          
             <h1 className={styles.h1}>Jesus Drives Out an Impure Spirit
  &rarr;</h1>
@@ -106,7 +106,7 @@ export default function Home() {
           <p>The people were all so amazed that they asked each other, “What is this? A new teaching—and with authority! He even gives orders to impure spirits and they obey him.” News about him spread quickly over the whole region of Galilee.</p>
           </a>
         
-          <a href="" className={styles.card}>
+          <a href="javascript:void(0)" className={styles.card}>
             <h2 className={styles.h1} >Jesus Heals Many &rarr;</h2>
 
             <p>As soon as they left the synagogue, they went with James and John to the home of Simon and Andrew. </p>
@@ -119,7 +119,7 @@ export default function Home() {
           </a>
 
           <a
-            href=""
+            href="javascript:void(0)"
             className={styles.card}
           >
             <h2 className={styles.h1}> Jesus Prays in a Solitary Place &rarr;</h2>
@@ -133,7 +133,7 @@ export default function Home() {
           </a>
 
           <a
-            href=""
+            href="javascript:void(0)"
             className={styles.card}
           >
             <h1 className={styles.h1}>Jesus Heals a Man With Leprosy &rarr;</h1>
@@ -169,7 +169,7 @@ export default function Home() {
       <footer className={styles.footer}>
       
         <a
-          href=""
+          href="javascript:void(0)"
           target="_blank"
           rel="noopener noreferrer"
         >
