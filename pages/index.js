@@ -169,8 +169,7 @@ export default function Home() {
         <h1 className={styles.p}>Gospel of Mark </h1>
       <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
         
-       <h1 className={styles.title}><a href="https://en.wikipedia.org/wiki/Jesus">about Jesus Christ</a>
-        </h1>
+      
         
         <p className={styles.description}>
           
