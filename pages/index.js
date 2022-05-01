@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-      <h1 className={styles.p}>Gospel according to Mark</h1>
+      <h1 className={styles.p}>Gospel from Mark</h1>
       <p className={styles.description}>
           
           <code className={styles.code}> Mark, the author of this gospel, probably was the first to write down the events of
@@ -165,7 +165,7 @@ export default function Home() {
      
         </div>
 
-        <h1 className={styles.p}>Gospel (Good News) according to Mark </h1>
+        <h1 className={styles.p}>Gospel from Mark </h1>
       <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
         
        <h1 className={styles.title}><a href="https://en.wikipedia.org/wiki/Jesus">about Jesus Christ</a>
@@ -183,7 +183,60 @@ export default function Home() {
 
 
 
+        <div className={styles.grid}>
+          <a href="javascript:void(0)" className={styles.card1}>
+         
+            <h1 className={styles.h1}>Jesus Does a thing
+ &rarr;</h1>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem, delectus?</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, delectus.</p>
+    <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur, ipsum.</p>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias, ducimus.</p>
+          </a>
+        
+          <a href="javascript:void(0)" className={styles.card}>
+            <h2 className={styles.h1} >Jesus deos a thing &rarr;</h2>
 
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione, animi. </p>
+            <Image className={styles.christ} src="/1-jesus-christ-with-arms-wide-open-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, voluptate.</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, incidunt.</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, doloribus!</p>
+          </a>
+
+          <a
+            href="javascript:void(0)"
+            className={styles.card}
+          >
+            <h2 className={styles.h1}> Jesus deos a thing &rarr;</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum, dolor!</p>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt, libero quis? Repellendus, hic. Tenetur, nisi.</p>
+            <p>
+            <Image className={styles.christ} src="/worship_jesus.jpeg" alt="title" width={200} height={200}  />
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, ipsam!
+            </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni, molestias?</p>
+          </a>
+
+          <a
+            href="javascript:void(0)"
+            className={styles.card}
+          >
+            <h1 className={styles.h1}>Jesus does a thing &rarr;</h1>
+           
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, quis!</p>
+         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, sit?</p>
+         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut laudantium doloribus, ipsam consequuntur qui voluptatum fugit nisi omnis corporis provident reiciendis in illo error consectetur!</p>
+         <Image src="/walking_on_water.jpeg" alt="Vercel Logo" width={300} height={300} />
+         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, officia!</p>
+         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, voluptatem. Deserunt, placeat sequi? Fuga, explicabo.</p> 
+         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, repellat? Aut ipsam fuga a quis.</p>
+          
+          </a>
+
+     
+        </div>
 
 
 
