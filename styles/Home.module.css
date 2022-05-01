@@ -42,8 +42,8 @@
 .title a:focus,
 .title a:active {
     text-decoration: underline;
-    color: rgb(44, 200, 221);
-    border-color: rgb(28, 235, 217);
+    color: rgb(8, 49, 54);
+    border-color: rgb(6, 48, 44);
 }
 
 .title {
@@ -76,7 +76,7 @@
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    max-width: 800px;
+    max-width: 1800px;
 }
 
 .card {

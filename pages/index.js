@@ -19,8 +19,9 @@ export default function Home() {
         </h1>
         
         <p className={styles.description}>
-          Beginning with
+          
           <code className={styles.code}>The Gospel of Mark</code>
+          Chapter 1
         </p>
 
         <div className={styles.grid}>
