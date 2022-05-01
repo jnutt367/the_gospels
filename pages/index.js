@@ -188,16 +188,24 @@ export default function Home() {
           <a href="javascript:void(0)" className={styles.card1}>
          
             <h1 className={styles.h1}>
-            Jesus Forgives and Heals a Paralyzed Man &rarr;</h1>
+            Jesus Forgives a Paralyzed Man sins &rarr;</h1>
             <p>A few days later, when Jesus again entered Capernaum, the people heard that he had come home. </p>
     <p>They gathered in such large numbers that there was no room left, not even outside the door, and he preached the word to them. Some men came, bringing to him a paralyzed man, carried by four of them.</p>
     <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
           <p>Since they could not get him to Jesus because of the crowd, they made an opening in the roof above Jesus by digging through it and then lowered the mat the man was lying on. When Jesus saw their faith, he said to the paralyzed man, “Son, your sins are forgiven.”</p>
-          <p>Now some teachers of the law were sitting there, thinking to themselves, “Why does this fellow talk like that? He’s blaspheming! Who can forgive sins but God alone?”</p>
+        </a>
+        
+        <a href="javascript:void(0)" className={styles.card1}>
+         
+         <h1 className={styles.h1}>
+         Jesus Heals a Paralyzed Man &rarr;</h1>
+        <p>Now some teachers of the law were sitting there, thinking to themselves, “Why does this fellow talk like that? He’s blaspheming! Who can forgive sins but God alone?”</p>
+        <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
          <p>Immediately Jesus knew in his spirit that this was what they were thinking in their hearts, and he said to them, “Why are you thinking these things? Which is easier: to say to this paralyzed man, ‘Your sins are forgiven,’ or to say, ‘Get up, take your mat and walk’? </p>
          <p>But I want you to know that the Son of Man has authority on earth to forgive sins.” So he said to the man, “I tell you, get up, take your mat and go home.” He got up, took his mat and walked out in full view of them all. This amazed everyone and they praised God, saying, “We have never seen anything like this!”</p>
-          </a>
-        
+         </a>
+
+
           <a href="javascript:void(0)" className={styles.card}>
             <h2 className={styles.h1} >Jesus Calls Levi and Eats With Sinners &rarr;</h2>
 
@@ -207,7 +215,7 @@ export default function Home() {
           <p>When the teachers of the law who were Pharisees saw him eating with the sinners and tax collectors, they asked his disciples: “Why does he eat with tax collectors and sinners?”</p>
           <p>On hearing this, Jesus said to them, “It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but sinners.”</p>
           </a>
-
+          
           <a
             href="javascript:void(0)"
             className={styles.card}
