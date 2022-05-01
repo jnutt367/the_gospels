@@ -187,7 +187,7 @@ export default function Home() {
           <a href="javascript:void(0)" className={styles.card1}>
          
             <h1 className={styles.h1}>
-            Jesus Forgives a Paralyzed Man sins &rarr;</h1>
+            Jesus Forgives a Paralyzed Man`s sins &rarr;</h1>
             <p>A few days later, when Jesus again entered Capernaum, the people heard that he had come home. </p>
     <p>They gathered in such large numbers that there was no room left, not even outside the door, and he preached the word to them. Some men came, bringing to him a paralyzed man, carried by four of them.</p>
     <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
