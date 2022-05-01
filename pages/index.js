@@ -12,16 +12,29 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-      <h1 className={styles.p}>The Gospel (Good News) </h1>
+      <h1 className={styles.p}>Gospel according to Mark</h1>
+      <p className={styles.description}>
+          
+          <code className={styles.code}> Mark, the author of this gospel, probably was the first to write down the events of
+          of Jesus' life. It is believed that he is the same person who worked for many years as a missionary with Paul & Barnabas.</code>
+          
+        </p>
       <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
         
        <h1 className={styles.title}><a href="https://en.wikipedia.org/wiki/Jesus">about Jesus Christ</a>
         </h1>
-        
         <p className={styles.description}>
           
-          <code className={styles.code}>The Gospel of Mark</code>
-          Chapter 1
+          <code className={styles.code}> The book of Mark, which stresses facts & actions, rather than themes or topics, is the most exciting account of the life of Christ
+                   among the Gospels. Although it is the shortest of the Gospels, it is often the most detailed. From the beginning, Mark tells the stories of Christ's ministry, especially his miracles.
+                   Mark shows Jesus as a man of action & authority. He spends one third of the book telling the events of Christ's last week on earth, ending with the Savior's death & resurrection.
+          </code>
+          
+        </p>
+        <p className={styles.description}>
+          
+          <code className={styles.code}> Mark Chapter 1</code>
+          
         </p>
 
         <div className={styles.grid}>
@@ -152,7 +165,17 @@ export default function Home() {
      
         </div>
 
-
+        <h1 className={styles.p}>Gospel (Good News) according to Mark </h1>
+      <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
+        
+       <h1 className={styles.title}><a href="https://en.wikipedia.org/wiki/Jesus">about Jesus Christ</a>
+        </h1>
+        
+        <p className={styles.description}>
+          
+          <code className={styles.code}> Mark Chapter 2</code>
+          
+        </p>
 
 
 

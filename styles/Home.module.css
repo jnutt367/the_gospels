@@ -34,14 +34,14 @@
 }
 
 .title a {
-    font-family: cursive;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-decoration: none;
 }
 
 .title a:hover,
 .title a:focus,
 .title a:active {
-    text-decoration: underline;
+    text-decoration: underline double;
     color: rgb(8, 49, 54);
     border-color: rgb(6, 48, 44);
 }
@@ -146,7 +146,7 @@
 }
 
 .h1 {
-    font-family: cursive;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .logo {
