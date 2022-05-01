@@ -12,11 +12,12 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-      <h1 className={styles.p}>Gospel from Mark</h1>
+      <p>The</p>
+      <h1 className={styles.p}>Gospel of Mark</h1>
       <p className={styles.description}>
           
           <code className={styles.code}> Mark, the author of this gospel, probably was the first to write down the events of
-          of Jesus' life. It is believed that he is the same person who worked for many years as a missionary with Paul & Barnabas.</code>
+          of Jesus life. It is believed that he is the same person who worked for many years as a missionary with Paul & Barnabas.</code>
           
         </p>
       <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
@@ -26,8 +27,8 @@ export default function Home() {
         <p className={styles.description}>
           
           <code className={styles.code}> The book of Mark, which stresses facts & actions, rather than themes or topics, is the most exciting account of the life of Christ
-                   among the Gospels. Although it is the shortest of the Gospels, it is often the most detailed. From the beginning, Mark tells the stories of Christ's ministry, especially his miracles.
-                   Mark shows Jesus as a man of action & authority. He spends one third of the book telling the events of Christ's last week on earth, ending with the Savior's death & resurrection.
+                   among the Gospels. Although it is the shortest of the Gospels, it is often the most detailed. From the beginning, Mark tells the stories of Christs ministry, especially his miracles.
+                   Mark shows Jesus as a man of action & authority. He spends one third of the book telling the events of Christs last week on earth, ending with the Saviors death & resurrection.
           </code>
           
         </p>
@@ -164,8 +165,8 @@ export default function Home() {
 
      
         </div>
-
-        <h1 className={styles.p}>Gospel from Mark </h1>
+<p>The</p>
+        <h1 className={styles.p}>Gospel of Mark </h1>
       <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
         
        <h1 className={styles.title}><a href="https://en.wikipedia.org/wiki/Jesus">about Jesus Christ</a>
@@ -186,52 +187,53 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="javascript:void(0)" className={styles.card1}>
          
-            <h1 className={styles.h1}>Jesus Does a thing
- &rarr;</h1>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem, delectus?</p>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, delectus.</p>
+            <h1 className={styles.h1}>
+            Jesus Forgives and Heals a Paralyzed Man &rarr;</h1>
+            <p>A few days later, when Jesus again entered Capernaum, the people heard that he had come home. </p>
+    <p>They gathered in such large numbers that there was no room left, not even outside the door, and he preached the word to them. Some men came, bringing to him a paralyzed man, carried by four of them.</p>
     <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
-          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur, ipsum.</p>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Alias, ducimus.</p>
+          <p>Since they could not get him to Jesus because of the crowd, they made an opening in the roof above Jesus by digging through it and then lowered the mat the man was lying on. When Jesus saw their faith, he said to the paralyzed man, “Son, your sins are forgiven.”</p>
+          <p>Now some teachers of the law were sitting there, thinking to themselves, “Why does this fellow talk like that? He’s blaspheming! Who can forgive sins but God alone?”</p>
+         <p>Immediately Jesus knew in his spirit that this was what they were thinking in their hearts, and he said to them, “Why are you thinking these things? Which is easier: to say to this paralyzed man, ‘Your sins are forgiven,’ or to say, ‘Get up, take your mat and walk’? </p>
+         <p>But I want you to know that the Son of Man has authority on earth to forgive sins.” So he said to the man, “I tell you, get up, take your mat and go home.” He got up, took his mat and walked out in full view of them all. This amazed everyone and they praised God, saying, “We have never seen anything like this!”</p>
           </a>
         
           <a href="javascript:void(0)" className={styles.card}>
-            <h2 className={styles.h1} >Jesus deos a thing &rarr;</h2>
+            <h2 className={styles.h1} >Jesus Calls Levi and Eats With Sinners &rarr;</h2>
 
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione, animi. </p>
+            <p>Once again Jesus went out beside the lake. A large crowd came to him, and he began to teach them. As he walked along, he saw Levi son of Alphaeus sitting at the tax collector’s booth. “Follow me,” Jesus told him, and Levi got up and followed him. </p>
             <Image className={styles.christ} src="/1-jesus-christ-with-arms-wide-open-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, voluptate.</p>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, incidunt.</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, doloribus!</p>
+          <p>While Jesus was having dinner at Levi’s house, many tax collectors and sinners were eating with him and his disciples, for there were many who followed him. </p>
+          <p>When the teachers of the law who were Pharisees saw him eating with the sinners and tax collectors, they asked his disciples: “Why does he eat with tax collectors and sinners?”</p>
+          <p>On hearing this, Jesus said to them, “It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but sinners.”</p>
           </a>
 
           <a
             href="javascript:void(0)"
             className={styles.card}
           >
-            <h2 className={styles.h1}> Jesus deos a thing &rarr;</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum, dolor!</p>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt, libero quis? Repellendus, hic. Tenetur, nisi.</p>
+            <h2 className={styles.h1}> Jesus Questioned About Fasting &rarr;</h2>
+            <p>Now John’s disciples and the Pharisees were fasting. Some people came and asked Jesus, “How is it that John’s disciples and the disciples of the Pharisees are fasting, but yours are not?”</p>
+            <p>Jesus answered, “How can the guests of the bridegroom fast while he is with them? They cannot, so long as they have him with them. But the time will come when the bridegroom will be taken from them, and on that day they will fast.</p>
             <p>
             <Image className={styles.christ} src="/worship_jesus.jpeg" alt="title" width={200} height={200}  />
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, ipsam!
+            “No one sews a patch of unshrunk cloth on an old garment. Otherwise, the new piece will pull away from the old, making the tear worse.
             </p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni, molestias?</p>
+            <p>And no one pours new wine into old wineskins. Otherwise, the wine will burst the skins, and both the wine and the wineskins will be ruined. No, they pour new wine into new wineskins.”</p>
           </a>
 
           <a
             href="javascript:void(0)"
             className={styles.card}
           >
-            <h1 className={styles.h1}>Jesus does a thing &rarr;</h1>
+            <h1 className={styles.h1}>Jesus Is Lord of the Sabbath &rarr;</h1>
            
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, quis!</p>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, sit?</p>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut laudantium doloribus, ipsam consequuntur qui voluptatum fugit nisi omnis corporis provident reiciendis in illo error consectetur!</p>
+          <p>One Sabbath Jesus was going through the grainfields, and as his disciples walked along, they began to pick some heads of grain. </p>
+         <p>The Pharisees said to him, “Look, why are they doing what is unlawful on the Sabbath?”</p>
+         <p>He answered, “Have you never read what David did when he and his companions were hungry and in need? </p>
          <Image src="/walking_on_water.jpeg" alt="Vercel Logo" width={300} height={300} />
-         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum, officia!</p>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, voluptatem. Deserunt, placeat sequi? Fuga, explicabo.</p> 
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, repellat? Aut ipsam fuga a quis.</p>
+         <p> In the days of Abiathar the high priest, he entered the house of God and ate the consecrated bread, which is lawful only for priests to eat. And he also gave some to his companions.”</p>
+         <p>Then he said to them, “The Sabbath was made for man, not man for the Sabbath. So the Son of Man is Lord even of the Sabbath.”</p>
           
           </a>
 

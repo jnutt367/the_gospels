@@ -1,5 +1,6 @@
 .container {
     padding: 0 2rem;
+    background-color: aliceblue;
 }
 
 .main {
@@ -66,9 +67,9 @@
 }
 
 .code {
-    background: #fafafa;
+    background: aliceblue;
     border-radius: 5px;
-    padding: 0.75rem;
+    padding: 1.1rem;
     font-size: 1.1rem;
     font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
 }
