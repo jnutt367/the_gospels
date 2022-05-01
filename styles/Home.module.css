@@ -89,7 +89,8 @@
     border-radius: 10px;
     transition: color 0.15s ease, border-color 0.15s ease;
     max-width: 300px;
-    background-color: black;
+    color: white;
+    background-color: white;
 }
 
 .card1 {
@@ -102,14 +103,15 @@
     border-radius: 10px;
     transition: color 0.15s ease, border-color 0.15s ease;
     max-width: 300px;
-    background-color: black;
+    color: white;
+    background-color: white;
 }
 
 .card:hover,
 .card:focus,
 .card:active {
-    color: rgb(44, 200, 221);
-    border-color: rgb(28, 235, 217);
+    color: rgb(8, 49, 54);
+    border-color: rgb(6, 48, 44);
 }
 
 .card h2 {
@@ -128,8 +130,8 @@
 .card1:hover,
 .card1:focus,
 .card1:active {
-    color: rgb(44, 200, 221);
-    border-color: rgb(28, 235, 217);
+    color: rgb(8, 49, 54);
+    border-color: rgb(6, 48, 44);
 }
 
 .card1 h2 {
