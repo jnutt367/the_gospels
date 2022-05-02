@@ -92,8 +92,8 @@
     border-radius: 10px;
     transition: color 0.15s ease, border-color 0.15s ease;
     max-width: 300px;
-    color: white;
-    background-color: white;
+    color: aliceblue;
+    background-color: aliceblue;
 }
 
 .card1 {
@@ -106,15 +106,18 @@
     border-radius: 10px;
     transition: color 0.15s ease, border-color 0.15s ease;
     max-width: 300px;
-    color: white;
-    background-color: white;
+    color: aliceblue;
+    background-color: aliceblue;
 }
 
 .card:hover,
 .card:focus,
 .card:active {
-    color: rgb(8, 49, 54);
+    color: white;
     border-color: rgb(6, 48, 44);
+    background-image: url(/giphy_wave.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .card h2 {
@@ -133,8 +136,11 @@
 .card1:hover,
 .card1:focus,
 .card1:active {
-    color: rgb(8, 49, 54);
+    color: white;
     border-color: rgb(6, 48, 44);
+    background-image: url(/giphy_wave.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .card1 h2 {
