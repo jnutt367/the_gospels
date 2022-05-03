@@ -1,6 +1,6 @@
 .container {
     padding: 0 2rem;
-    background-color: aliceblue;
+    background-image: url(/sky-clouds.gif);
 }
 
 .main {
@@ -11,6 +11,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: transparent;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -113,11 +114,9 @@
 .card:hover,
 .card:focus,
 .card:active {
-    color: white;
+    color: black;
     border-color: rgb(6, 48, 44);
-    background-image: url(/giphy_wave.gif);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: transparent;
 }
 
 .card h2 {
@@ -138,7 +137,7 @@
 .card1:active {
     color: white;
     border-color: rgb(6, 48, 44);
-    background-image: url(/giphy_wave.gif);
+    background-color: transparent;
     background-repeat: no-repeat;
     background-size: cover;
 }
