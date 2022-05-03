@@ -249,9 +249,90 @@ export default function Home() {
 
 
 
+Mark 3
+
+
+<p>The</p>
+        <h1 className={styles.p}>Gospel of Mark </h1>
+      <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
+        
+      
+        
+        <p className={styles.description}>
+          
+          <code className={styles.code}> Mark Chapter 3</code>
+          
+        </p>
+
+
+
+
+
+
+
+        <div className={styles.grid}>
+          <a href="javascript:void(0)" className={styles.card1}>
+         
+            <h1 className={styles.h1}>
+            Jesus deos a thing &rarr;</h1>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus inventore soluta eos rerum consectetur in. </p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, consequuntur.</p>
+    <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque obcaecati modi eos amet, vel repellat consequatur eius aut animi accusantium corrupti nisi nulla porro dolorem!</p>
+        </a>
+        
+        <a href="javascript:void(0)" className={styles.card1}>
+         
+         <h1 className={styles.h1}>
+         Jesus does a thing &rarr;</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum molestiae neque aperiam unde cupiditate exercitationem itaque deserunt autem. Dolor, natus!</p>
+        <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi dolorem quis ex eos odio animi pariatur aliquid ipsum autem, inventore, incidunt aperiam possimus. Voluptatem dignissimos aliquid neque qui ad suscipit optio debitis et aliquam, sequi atque consectetur numquam soluta sunt.</p>
+         </a>
+
+
+          <a href="javascript:void(0)" className={styles.card}>
+            <h2 className={styles.h1} >Jesus does a thing &rarr;</h2>
+
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores error facere ipsum facilis! Eius quos, dolorem temporibus sint quis accusantium dolore voluptate laboriosam. Amet unde saepe id maxime eius dolore! </p>
+            <Image className={styles.christ} src="/1-jesus-christ-with-arms-wide-open-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam magni odio debitis reiciendis possimus laborum tempore cum est porro fuga!</p>
+ </a>
+          
+          <a
+            href="javascript:void(0)"
+            className={styles.card}
+          >
+            <h2 className={styles.h1}> Jesus does a thing &rarr;</h2>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure saepe neque repellat ab. Fugiat a quaerat tempore ipsum? Nam, repellat?</p>
+            <p>
+            <Image className={styles.christ} src="/worship_jesus.jpeg" alt="title" width={200} height={200}  />
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam sunt corporis impedit labore corrupti enim ex reprehenderit voluptate repellat perferendis.
+            </p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed temporibus sequi culpa earum consectetur quo nam nesciunt nihil animi ut officiis, quisquam, magni molestiae, nulla minima quidem debitis praesentium minus!</p>
+          </a>
+
+          <a
+            href="javascript:void(0)"
+            className={styles.card}
+          >
+            <h1 className={styles.h1}>Jesus does His thing &rarr;</h1>
+           
+         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, rem iure. Repellat nesciunt numquam, alias exercitationem architecto voluptatum dolore, sint nemo veritatis minus odit vero tempore, deleniti impedit? Ipsam hic nihil magnam iure quos ab blanditiis fugit consectetur totam sequi!</p>
+         <Image src="/walking_on_water.jpeg" alt="Vercel Logo" width={300} height={300} />
+        
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis natus ad dolor quasi, et, hic soluta quam recusandae nostrum nam vero officia totam voluptas alias quo quidem? Laboriosam quidem ad ullam atque sit totam suscipit, eos quas libero? Eaque, libero.</p>
+          </a>
+
+     
+        </div>
+
+
+
+
 
       </main>
-
+   
       <footer className={styles.footer}>
       
         <a

@@ -135,7 +135,7 @@
 .card1:hover,
 .card1:focus,
 .card1:active {
-    color: white;
+    color: black;
     border-color: rgb(6, 48, 44);
     background-color: transparent;
     background-repeat: no-repeat;
