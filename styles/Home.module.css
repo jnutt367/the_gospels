@@ -1,6 +1,6 @@
 .container {
     padding: 0 2rem;
-    background-image: url(/sky-clouds.gif);
+    background-image: url(/clouds-rain.gif);
 }
 
 .main {
@@ -33,6 +33,7 @@
 
 .christ {
     padding: 100px;
+    background-color: transparent;
 }
 
 .title a {

@@ -20,7 +20,7 @@ export default function Home() {
           of Jesus life. It is believed that he is the same person who worked for many years as a missionary with Paul & Barnabas.</code>
           
         </p>
-      <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
+      <Image className={styles.christ} src="/jesus-of-nazareth.png" alt="title" width={500} height={500}  />
         
        <h1 className={styles.title}><a href="https://en.wikipedia.org/wiki/Jesus">about Jesus Christ</a>
         </h1>
@@ -43,7 +43,7 @@ export default function Home() {
          
             <h1 className={styles.h1}>The Beginning of the Gospel &rarr;</h1>
             <p>The beginning of the good news about Jesus the Messiah, the Son of God, as it is written in Isaiah the prophet:</p>
-            <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <Image className={styles.christ} src="/jesus-transparent-background.png" alt="title" width={200} height={200}  />
             <p>“I will send my messenger ahead of you,
     who will prepare your way” “a voice of one calling in the wilderness,
 ‘Prepare the way for the Lord,
@@ -55,7 +55,7 @@ export default function Home() {
             <h2 className={styles.h1} >John the Baptist Prepares the Way &rarr;</h2>
 
             <p>And so John the Baptist appeared in the wilderness, preaching a baptism of repentance for the forgiveness of sins. </p>
-            <Image className={styles.christ} src="/1-jesus-christ-with-arms-wide-open-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <Image className={styles.christ} src="/shepard_jesus.png.crdownload" alt="title" width={200} height={200}  />
           <p>The whole Judean countryside and all the people of Jerusalem went out to him. Confessing their sins, they were baptized by him in the Jordan River.</p>
           <p>John wore clothing made of camel’s hair, with a leather belt around his waist, and he ate locusts and wild honey.</p>
           </a>
@@ -68,7 +68,7 @@ export default function Home() {
             <p>And this was his message: “After me comes the one more powerful than I, the straps of whose sandals I am not worthy to stoop down and untie.</p>
             <p>I baptize you with water, but he will baptize you with the Holy Spirit.”</p>
             <p>
-            <Image className={styles.christ} src="/worship_jesus.jpeg" alt="title" width={200} height={200}  />
+            <Image className={styles.christ} src="/1-jesus-christ-with-arms-wide-open-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
             At that time Jesus came from Nazareth in Galilee and was baptized by John in the Jordan.
             </p>
             <p>Just as Jesus was coming up out of the water, he saw heaven being torn open and the Spirit descending on him like a dove.</p>
