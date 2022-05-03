@@ -51,7 +51,7 @@ export default function Home() {
     
           </a>
         
-          <a href="javascript:void(0)" className={styles.card}>
+          <a href="javascript:void(0)" className={styles.card1}>
             <h2 className={styles.h1} >John the Baptist Prepares the Way &rarr;</h2>
 
             <p>And so John the Baptist appeared in the wilderness, preaching a baptism of repentance for the forgiveness of sins. </p>
@@ -62,7 +62,7 @@ export default function Home() {
 
           <a
             href="javascript:void(0)"
-            className={styles.card}
+            className={styles.card1}
           >
             <h2 className={styles.h1}> The Message &rarr;</h2>
             <p>And this was his message: “After me comes the one more powerful than I, the straps of whose sandals I am not worthy to stoop down and untie.</p>
@@ -76,7 +76,7 @@ export default function Home() {
 
           <a
             href="javascript:void(0)"
-            className={styles.card}
+            className={styles.card1}
           >
             <h1 className={styles.h1}>The Testing of Jesus &rarr;</h1>
             <Image src="/walking_on_water.jpeg" alt="Vercel Logo" width={300} height={300} />
@@ -87,7 +87,7 @@ export default function Home() {
 
           <a
             href="javascript:void(0)"
-            className={styles.card}
+            className={styles.card1}
           >
             <h1 className={styles.h1}> Jesus Calls His First Disciples &rarr;</h1>
             <Image src="/thumbs_up.jpeg" alt="Vercel Logo" width={300} height={300} />
@@ -121,7 +121,7 @@ export default function Home() {
           <p>The people were all so amazed that they asked each other, “What is this? A new teaching—and with authority! He even gives orders to impure spirits and they obey him.” News about him spread quickly over the whole region of Galilee.</p>
           </a>
         
-          <a href="javascript:void(0)" className={styles.card}>
+          <a href="javascript:void(0)" className={styles.card1}>
             <h2 className={styles.h1} >Jesus Heals Many &rarr;</h2>
 
             <p>As soon as they left the synagogue, they went with James and John to the home of Simon and Andrew. </p>
@@ -135,7 +135,7 @@ export default function Home() {
 
           <a
             href="javascript:void(0)"
-            className={styles.card}
+            className={styles.card1}
           >
             <h2 className={styles.h1}> Jesus Prays in a Solitary Place &rarr;</h2>
             <p>Very early in the morning, while it was still dark, Jesus got up, left the house and went off to a solitary place, where he prayed.</p>
@@ -149,7 +149,7 @@ export default function Home() {
 
           <a
             href="javascript:void(0)"
-            className={styles.card}
+            className={styles.card1}
           >
             <h1 className={styles.h1}>Jesus Heals a Man With Leprosy &rarr;</h1>
            
@@ -167,7 +167,7 @@ export default function Home() {
         </div>
 <p>The</p>
         <h1 className={styles.p}>Gospel of Mark </h1>
-      <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
+      <Image className={styles.christ} src="/carrying_cross.webp" alt="title" width={500} height={500}  />
         
       
         
@@ -205,7 +205,7 @@ export default function Home() {
          </a>
 
 
-          <a href="javascript:void(0)" className={styles.card}>
+          <a href="javascript:void(0)" className={styles.card1}>
             <h2 className={styles.h1} >Jesus Calls Levi and Eats With Sinners &rarr;</h2>
 
             <p>Once again Jesus went out beside the lake. A large crowd came to him, and he began to teach them. As he walked along, he saw Levi son of Alphaeus sitting at the tax collector’s booth. “Follow me,” Jesus told him, and Levi got up and followed him. </p>
@@ -217,7 +217,7 @@ export default function Home() {
           
           <a
             href="javascript:void(0)"
-            className={styles.card}
+            className={styles.card1}
           >
             <h2 className={styles.h1}> Jesus Questioned About Fasting &rarr;</h2>
             <p>Now John’s disciples and the Pharisees were fasting. Some people came and asked Jesus, “How is it that John’s disciples and the disciples of the Pharisees are fasting, but yours are not?”</p>
@@ -231,7 +231,7 @@ export default function Home() {
 
           <a
             href="javascript:void(0)"
-            className={styles.card}
+            className={styles.card1}
           >
             <h1 className={styles.h1}>Jesus Is Lord of the Sabbath &rarr;</h1>
            
@@ -254,7 +254,7 @@ Mark 3
 
 <p>The</p>
         <h1 className={styles.p}>Gospel of Mark </h1>
-      <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
+      <Image className={styles.christ} src="/worship_jesus.jpeg" alt="title" width={500} height={500}  />
         
       
         
@@ -274,11 +274,15 @@ Mark 3
           <a href="javascript:void(0)" className={styles.card1}>
          
             <h1 className={styles.h1}>
-            Jesus deos a thing &rarr;</h1>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus inventore soluta eos rerum consectetur in. </p>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, consequuntur.</p>
+            A Sabbath Day &rarr;</h1>
+            <p>And they watched him, whether he would heal him on the sabbath day; that they might accuse him.  </p>
+    <p>And he saith unto the man which had the withered hand, Stand forth. And he saith unto them, Is it lawful to do good on the sabbath days, or to do evil? to save life, or to kill? But they held their peace</p>
     <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque obcaecati modi eos amet, vel repellat consequatur eius aut animi accusantium corrupti nisi nulla porro dolorem!</p>
+          <p>And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he saith unto the man, Stretch forth thine hand. And he stretched it out: and his hand was restored whole as the other.</p>
+        <p>And the Pharisees went forth, and straightway took counsel with the Herodians against him, how they might destroy him.</p>
+        <p>But Jesus withdrew himself with his disciples to the sea: and a great multitude from Galilee followed him, and from Judæa, 8and from Jerusalem, and from Idumæa, and from beyond Jordan; and they about Tyre and Sidon, a great multitude, when they had heard what great things he did, came unto him. 9And he spake to his disciples, that a small ship should wait on him because of the multitude, lest they should throng him. For he had healed many; insomuch that they pressed upon him for to touch him, as many as had plagues. 
+        And unclean spirits, when they saw him, fell down before him, and cried, saying, Thou art the Son of God.</p> 
+        <p>And he straitly charged them that they should not make him known.</p>
         </a>
         
         <a href="javascript:void(0)" className={styles.card1}>
@@ -291,7 +295,7 @@ Mark 3
          </a>
 
 
-          <a href="javascript:void(0)" className={styles.card}>
+          <a href="javascript:void(0)" className={styles.card1}>
             <h2 className={styles.h1} >Jesus does a thing &rarr;</h2>
 
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores error facere ipsum facilis! Eius quos, dolorem temporibus sint quis accusantium dolore voluptate laboriosam. Amet unde saepe id maxime eius dolore! </p>
@@ -301,7 +305,7 @@ Mark 3
           
           <a
             href="javascript:void(0)"
-            className={styles.card}
+            className={styles.card1}
           >
             <h2 className={styles.h1}> Jesus does a thing &rarr;</h2>
           <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure saepe neque repellat ab. Fugiat a quaerat tempore ipsum? Nam, repellat?</p>
@@ -314,7 +318,7 @@ Mark 3
 
           <a
             href="javascript:void(0)"
-            className={styles.card}
+            className={styles.card1}
           >
             <h1 className={styles.h1}>Jesus does His thing &rarr;</h1>
            
