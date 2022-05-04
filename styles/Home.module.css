@@ -96,7 +96,7 @@
     max-width: 300px;
     color: aliceblue;
     background-color: aliceblue;
-    opacity: 0.5;
+    opacity: 1;
 }
 
 .card1 {
@@ -111,7 +111,7 @@
     max-width: 300px;
     color: aliceblue;
     background-color: aliceblue;
-    opacity: 0.5;
+    opacity: 0;
 }
 
 .card:hover,
@@ -157,6 +157,7 @@
 
 .h1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2em;
 }
 
 .logo {

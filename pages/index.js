@@ -20,7 +20,7 @@ export default function Home() {
           of Jesus life. It is believed that he is the same person who worked for many years as a missionary with Paul & Barnabas.</code>
           
         </p>
-      <Image className={styles.christ} src="/jesus-of-nazareth.png" alt="title" width={500} height={500}  />
+      <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
         
        <h1 className={styles.title}><a href="https://en.wikipedia.org/wiki/Jesus">about Jesus Christ</a>
         </h1>
@@ -55,7 +55,7 @@ export default function Home() {
             <h2 className={styles.h1} >John the Baptist Prepares the Way &rarr;</h2>
 
             <p>And so John the Baptist appeared in the wilderness, preaching a baptism of repentance for the forgiveness of sins. </p>
-            <Image className={styles.christ} src="/shepard_jesus.png.crdownload" alt="title" width={200} height={200}  />
+            <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
           <p>The whole Judean countryside and all the people of Jerusalem went out to him. Confessing their sins, they were baptized by him in the Jordan River.</p>
           <p>John wore clothing made of camel’s hair, with a leather belt around his waist, and he ate locusts and wild honey.</p>
           </a>
@@ -249,7 +249,6 @@ export default function Home() {
 
 
 
-Mark 3
 
 
 <p>The</p>
@@ -274,59 +273,59 @@ Mark 3
           <a href="javascript:void(0)" className={styles.card1}>
          
             <h1 className={styles.h1}>
-            A Sabbath Day &rarr;</h1>
-            <p>And they watched him, whether he would heal him on the sabbath day; that they might accuse him.  </p>
-    <p>And he saith unto the man which had the withered hand, Stand forth. And he saith unto them, Is it lawful to do good on the sabbath days, or to do evil? to save life, or to kill? But they held their peace</p>
-    <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
-          <p>And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he saith unto the man, Stretch forth thine hand. And he stretched it out: and his hand was restored whole as the other.</p>
-        <p>And the Pharisees went forth, and straightway took counsel with the Herodians against him, how they might destroy him.</p>
-        <p>But Jesus withdrew himself with his disciples to the sea: and a great multitude from Galilee followed him, and from Judæa, 8and from Jerusalem, and from Idumæa, and from beyond Jordan; and they about Tyre and Sidon, a great multitude, when they had heard what great things he did, came unto him. 9And he spake to his disciples, that a small ship should wait on him because of the multitude, lest they should throng him. For he had healed many; insomuch that they pressed upon him for to touch him, as many as had plagues. 
-        And unclean spirits, when they saw him, fell down before him, and cried, saying, Thou art the Son of God.</p> 
-        <p>And he straitly charged them that they should not make him known.</p>
+            Jesus Heals on the Sabbath &rarr;</h1>
+            <p> Another time Jesus went into the synagogue, and a man with a shriveled hand was there. </p>
+            <p>  Some of them were looking for a reason to accuse Jesus, so they watched him closely to see if he would heal him on the Sabbath.</p>
+            <p> Jesus said to the man with the shriveled hand, “Stand up in front of everyone.”</p>
+            <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p>Then Jesus asked them, “Which is lawful on the Sabbath: to do good or to do evil, to save life or to kill?” But they remained silent.</p>
+            <p>He looked around at them in anger and, deeply distressed at their stubborn hearts, said to the man, “Stretch out your hand.” He stretched it out, and his hand was completely restored. Then the Pharisees went out and began to plot with the Herodians how they might kill Jesus.</p>
         </a>
         
         <a href="javascript:void(0)" className={styles.card1}>
          
          <h1 className={styles.h1}>
-         Jesus does a thing &rarr;</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum molestiae neque aperiam unde cupiditate exercitationem itaque deserunt autem. Dolor, natus!</p>
+         Crowds Follow Jesus &rarr;</h1>
+        <p>Jesus withdrew with his disciples to the lake, and a large crowd from Galilee followed. </p>
         <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi dolorem quis ex eos odio animi pariatur aliquid ipsum autem, inventore, incidunt aperiam possimus. Voluptatem dignissimos aliquid neque qui ad suscipit optio debitis et aliquam, sequi atque consectetur numquam soluta sunt.</p>
-         </a>
+        <p>When they heard about all he was doing, many people came to him from Judea, Jerusalem, Idumea, and the regions across the Jordan and around Tyre and Sidon. </p>
+        <p>Because of the crowd he told his disciples to have a small boat ready for him, to keep the people from crowding him.</p>
+        <p>For he had healed many, so that those with diseases were pushing forward to touch him. </p>
+        <p>Whenever the impure spirits saw him, they fell down before him and cried out, “You are the Son of God.” But he gave them strict orders not to tell others about him.</p>
+        </a>
 
 
           <a href="javascript:void(0)" className={styles.card1}>
-            <h2 className={styles.h1} >Jesus does a thing &rarr;</h2>
+            <h2 className={styles.h1} >Jesus Appoints the Twelve &rarr;</h2>
 
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores error facere ipsum facilis! Eius quos, dolorem temporibus sint quis accusantium dolore voluptate laboriosam. Amet unde saepe id maxime eius dolore! </p>
+            <p> Jesus went up on a mountainside and called to him those he wanted, and they came to him.</p>
             <Image className={styles.christ} src="/1-jesus-christ-with-arms-wide-open-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam magni odio debitis reiciendis possimus laborum tempore cum est porro fuga!</p>
+            <p>  He appointed twelve that they might be with him and that he might send them out to preach and to have authority to drive out demons.</p>
+            <p> These are the twelve he appointed: Simon (to whom he gave the name Peter), James son of Zebedee and his brother John (to them he gave the name Boanerges, which means “sons of thunder”), Andrew, Philip, Bartholomew, Matthew, Thomas, James son of Alphaeus, Thaddaeus, Simon the Zealot and Judas Iscariot, who betrayed him.</p>
+           
  </a>
           
           <a
             href="javascript:void(0)"
             className={styles.card1}
           >
-            <h2 className={styles.h1}> Jesus does a thing &rarr;</h2>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure saepe neque repellat ab. Fugiat a quaerat tempore ipsum? Nam, repellat?</p>
+            <h2 className={styles.h1}> Jesus Accused by His Family and by Teachers of the Law &rarr;</h2>
+          <p>Then Jesus entered a house, and again a crowd gathered, so that he and his disciples were not even able to eat. When his family heard about this, they went to take charge of him, for they said, “He is out of his mind.”</p>
             <p>
             <Image className={styles.christ} src="/worship_jesus.jpeg" alt="title" width={200} height={200}  />
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam sunt corporis impedit labore corrupti enim ex reprehenderit voluptate repellat perferendis.
+            And the teachers of the law who came down from Jerusalem said, “He is possessed by Beelzebul! By the prince of demons he is driving out demons.”
             </p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed temporibus sequi culpa earum consectetur quo nam nesciunt nihil animi ut officiis, quisquam, magni molestiae, nulla minima quidem debitis praesentium minus!</p>
+            <p> So Jesus called them over to him and began to speak to them in parables: “How can Satan drive out Satan? </p>
+            <p> If a kingdom is divided against itself, that kingdom cannot stand. If a house is divided against itself, that house cannot stand. </p>
+            <p> And if Satan opposes himself and is divided, he cannot stand; his end has come. In fact, no one can enter a strong man’s house without first tying him up. Then he can plunder the strong man’s house.</p>
+            <p> Truly I tell you, people can be forgiven all their sins and every slander they utter, but whoever blasphemes against the Holy Spirit will never be forgiven; they are guilty of an eternal sin.”</p>
+            <p> He said this because they were saying, “He has an impure spirit.”</p>
+            <p> Then Jesus’ mother and brothers arrived. Standing outside, they sent someone in to call him. A crowd was sitting around him, and they told him, “Your mother and brothers are outside looking for you.”</p>
+            <p> “Who are my mother and my brothers?” he asked. Then he looked at those seated in a circle around him and said, “Here are my mother and my brothers! Whoever does God’s will is my brother and sister and mother.”</p>
+         
           </a>
 
-          <a
-            href="javascript:void(0)"
-            className={styles.card1}
-          >
-            <h1 className={styles.h1}>Jesus does His thing &rarr;</h1>
-           
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, rem iure. Repellat nesciunt numquam, alias exercitationem architecto voluptatum dolore, sint nemo veritatis minus odit vero tempore, deleniti impedit? Ipsam hic nihil magnam iure quos ab blanditiis fugit consectetur totam sequi!</p>
-         <Image src="/walking_on_water.jpeg" alt="Vercel Logo" width={300} height={300} />
-        
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis natus ad dolor quasi, et, hic soluta quam recusandae nostrum nam vero officia totam voluptas alias quo quidem? Laboriosam quidem ad ullam atque sit totam suscipit, eos quas libero? Eaque, libero.</p>
-          </a>
+         
 
      
         </div>
