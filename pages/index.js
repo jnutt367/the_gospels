@@ -20,7 +20,7 @@ export default function Home() {
           of Jesus life. It is believed that he is the same person who worked for many years as a missionary with Paul & Barnabas.</code>
           
         </p>
-      <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
+      <Image className={styles.christ1} src="/jesus-transparent-background.png" alt="title" width={500} height={500}  />
         
        <h1 className={styles.title}><a href="https://en.wikipedia.org/wiki/Jesus">about Jesus Christ</a>
         </h1>
@@ -43,7 +43,7 @@ export default function Home() {
          
             <h1 className={styles.h1}>The Beginning of the Gospel &rarr;</h1>
             <p>The beginning of the good news about Jesus the Messiah, the Son of God, as it is written in Isaiah the prophet:</p>
-            <Image className={styles.christ} src="/jesus-transparent-background.png" alt="title" width={200} height={200}  />
+            <Image className={styles.christ} src="/worship_jesus.jpeg" alt="title" width={200} height={200}  />
             <p>“I will send my messenger ahead of you,
     who will prepare your way” “a voice of one calling in the wilderness,
 ‘Prepare the way for the Lord,
@@ -79,7 +79,7 @@ export default function Home() {
             className={styles.card1}
           >
             <h1 className={styles.h1}>The Testing of Jesus &rarr;</h1>
-            <Image src="/walking_on_water.jpeg" alt="Vercel Logo" width={300} height={300} />
+            <Image className={styles.christ} src="/walking_on_water.jpeg" alt="Vercel Logo" width={300} height={300} />
           <p>At once the Spirit sent him out into the wilderness, and he was in the wilderness forty days, being tempted by Satan. He was with the wild animals, and angels attended him.</p>
          <p>After John was put in prison, Jesus went into Galilee, proclaiming the good news of God.</p>
          <p>“The time has come,” he said. “The kingdom of God has come near. Repent and believe the good news!”</p>
@@ -90,7 +90,7 @@ export default function Home() {
             className={styles.card1}
           >
             <h1 className={styles.h1}> Jesus Calls His First Disciples &rarr;</h1>
-            <Image src="/thumbs_up.jpeg" alt="Vercel Logo" width={300} height={300} />
+            <Image className={styles.christ} src="/thumbs_up.jpeg" alt="Vercel Logo" width={300} height={300} />
            
 <p>As Jesus walked beside the Sea of Galilee, he saw Simon and his brother Andrew casting a net into the lake, for they were fishermen. “Come, follow me,” Jesus said, “and I will send you out to fish for people.” At once they left their nets and followed him.</p>
 
@@ -156,7 +156,7 @@ export default function Home() {
           <p>A man with leprosy came to him and begged him on his knees, “If you are willing, you can make me clean.”</p>
          <p>Jesus was indignant. He reached out his hand and touched the man. “I am willing,” he said. “Be clean!”</p>
          <p>Immediately the leprosy left him and he was cleansed.</p>
-         <Image src="/walking_on_water.jpeg" alt="Vercel Logo" width={300} height={300} />
+         <Image className={styles.christ} src="/walking_on_water.jpeg" alt="Vercel Logo" width={300} height={300} />
          <p>Jesus sent him away at once with a strong warning: “See that you don’t tell this to anyone. But go, show yourself to the priest and offer the sacrifices that Moses commanded for your cleansing, as a testimony to them.”</p>
          <p>Instead he went out and began to talk freely, spreading the news. As a result, Jesus could no longer enter a town openly but stayed outside in lonely places.</p> <p>Yet the people still came to him from everywhere.
          </p>
@@ -167,7 +167,7 @@ export default function Home() {
         </div>
 <p>The</p>
         <h1 className={styles.p}>Gospel of Mark </h1>
-      <Image className={styles.christ} src="/carrying_cross.webp" alt="title" width={500} height={500}  />
+      <Image className={styles.christ1} src="/jesus-transparent-background.png" alt="title" width={500} height={500}  />
         
       
         
@@ -238,7 +238,7 @@ export default function Home() {
           <p>One Sabbath Jesus was going through the grainfields, and as his disciples walked along, they began to pick some heads of grain. </p>
          <p>The Pharisees said to him, “Look, why are they doing what is unlawful on the Sabbath?”</p>
          <p>He answered, “Have you never read what David did when he and his companions were hungry and in need? </p>
-         <Image src="/walking_on_water.jpeg" alt="Vercel Logo" width={300} height={300} />
+         <Image className={styles.christ} src="/walking_on_water.jpeg" alt="Vercel Logo" width={300} height={300} />
          <p> In the days of Abiathar the high priest, he entered the house of God and ate the consecrated bread, which is lawful only for priests to eat. And he also gave some to his companions.”</p>
          <p>Then he said to them, “The Sabbath was made for man, not man for the Sabbath. So the Son of Man is Lord even of the Sabbath.”</p>
           
@@ -253,7 +253,7 @@ export default function Home() {
 
 <p>The</p>
         <h1 className={styles.p}>Gospel of Mark </h1>
-      <Image className={styles.christ} src="/worship_jesus.jpeg" alt="title" width={500} height={500}  />
+      <Image className={styles.christ1} src="/jesus-transparent-background.png" alt="title" width={500} height={500}  />
         
       
         
@@ -274,6 +274,7 @@ export default function Home() {
          
             <h1 className={styles.h1}>
             Jesus Heals on the Sabbath &rarr;</h1>
+            <Image className={styles.christ} src="/thumbs_up.jpeg" alt="jesus"  width={200} height={200}  />
             <p> Another time Jesus went into the synagogue, and a man with a shriveled hand was there. </p>
             <p>  Some of them were looking for a reason to accuse Jesus, so they watched him closely to see if he would heal him on the Sabbath.</p>
             <p> Jesus said to the man with the shriveled hand, “Stand up in front of everyone.”</p>
@@ -291,13 +292,14 @@ export default function Home() {
         <p>When they heard about all he was doing, many people came to him from Judea, Jerusalem, Idumea, and the regions across the Jordan and around Tyre and Sidon. </p>
         <p>Because of the crowd he told his disciples to have a small boat ready for him, to keep the people from crowding him.</p>
         <p>For he had healed many, so that those with diseases were pushing forward to touch him. </p>
+        <Image className={styles.christ} src="/peace_jesus.jpeg" alt="jesus"  width={200} height={200}  />
         <p>Whenever the impure spirits saw him, they fell down before him and cried out, “You are the Son of God.” But he gave them strict orders not to tell others about him.</p>
         </a>
 
 
           <a href="javascript:void(0)" className={styles.card1}>
             <h2 className={styles.h1} >Jesus Appoints the Twelve &rarr;</h2>
-
+            <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="jesus"  width={200} height={200}  />
             <p> Jesus went up on a mountainside and called to him those he wanted, and they came to him.</p>
             <Image className={styles.christ} src="/1-jesus-christ-with-arms-wide-open-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
             <p>  He appointed twelve that they might be with him and that he might send them out to preach and to have authority to drive out demons.</p>
