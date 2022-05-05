@@ -20,7 +20,7 @@ export default function Home() {
           of Jesus life. It is believed that he is the same person who worked for many years as a missionary with Paul & Barnabas.</code>
           
         </p>
-      <Image className={styles.christ1} src="/jesus-transparent-background.png" alt="title" width={500} height={500}  />
+      <Image className={styles.christ1} src="/peace_jesus.jpeg" alt="title" width={500} height={500}  />
         
        <h1 className={styles.title}><a href="https://en.wikipedia.org/wiki/Jesus">about Jesus Christ</a>
         </h1>
@@ -167,7 +167,7 @@ export default function Home() {
         </div>
 <p>The</p>
         <h1 className={styles.p}>Gospel of Mark </h1>
-      <Image className={styles.christ1} src="/jesus-transparent-background.png" alt="title" width={500} height={500}  />
+      <Image className={styles.christ1} src="/peace_jesus.jpeg" alt="title" width={500} height={500}  />
         
       
         
@@ -253,7 +253,7 @@ export default function Home() {
 
 <p>The</p>
         <h1 className={styles.p}>Gospel of Mark </h1>
-      <Image className={styles.christ1} src="/jesus-transparent-background.png" alt="title" width={500} height={500}  />
+      <Image className={styles.christ1} src="/peace_jesus.jpeg" alt="title" width={500} height={500}  />
         
       
         
@@ -325,6 +325,1078 @@ export default function Home() {
             <p> Then Jesus’ mother and brothers arrived. Standing outside, they sent someone in to call him. A crowd was sitting around him, and they told him, “Your mother and brothers are outside looking for you.”</p>
             <p> “Who are my mother and my brothers?” he asked. Then he looked at those seated in a circle around him and said, “Here are my mother and my brothers! Whoever does God’s will is my brother and sister and mother.”</p>
          
+          </a>
+
+         
+
+     
+        </div>
+
+
+
+
+
+
+    <p>The</p>
+        <h1 className={styles.p}>Gospel of Mark </h1>
+      <Image className={styles.christ1} src="/peace_jesus.jpeg" alt="title" width={500} height={500}  />
+        
+      
+        
+        <p className={styles.description}>
+          
+          <code className={styles.code}> Mark Chapter 4</code>
+          
+        </p>
+
+
+
+
+
+
+
+        <div className={styles.grid}>
+          <a href="javascript:void(0)" className={styles.card1}>
+         
+            <h1 className={styles.h1}>
+            Jesus  &rarr;</h1>
+            <Image className={styles.christ} src="/thumbs_up.jpeg" alt="jesus"  width={200} height={200}  />
+            <p>  </p>
+            <p>  </p>
+            <p> ”</p>
+            <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+        </a>
+        
+        <a href="javascript:void(0)" className={styles.card1}>
+         
+         <h1 className={styles.h1}>
+          Jesus &rarr;</h1>
+        <p> </p>
+        <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <Image className={styles.christ} src="/peace_jesus.jpeg" alt="jesus"  width={200} height={200}  />
+        <p> </p>
+        </a>
+
+
+          <a href="javascript:void(0)" className={styles.card1}>
+            <h2 className={styles.h1} >Jesus  &rarr;</h2>
+            <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="jesus"  width={200} height={200}  />
+            <p> </p>
+            <Image className={styles.christ} src="/1-jesus-christ-with-arms-wide-open-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+           
+ </a>
+          
+          <a
+            href="javascript:void(0)"
+            className={styles.card1}
+          >
+            <h2 className={styles.h1}> Jesus  &rarr;</h2>
+          <p></p>
+            <p>
+            <Image className={styles.christ} src="/worship_jesus.jpeg" alt="title" width={200} height={200}  />
+           Sentence goes here
+            </p>
+            <p>  </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            
+          </a>
+
+         
+
+     
+        </div>
+
+
+
+
+        <p>The</p>
+        <h1 className={styles.p}>Gospel of Mark </h1>
+      <Image className={styles.christ1} src="/peace_jesus.jpeg" alt="title" width={500} height={500}  />
+        
+      
+        
+        <p className={styles.description}>
+          
+          <code className={styles.code}> Mark Chapter 5</code>
+          
+        </p>
+
+
+
+
+
+
+
+        <div className={styles.grid}>
+          <a href="javascript:void(0)" className={styles.card1}>
+         
+            <h1 className={styles.h1}>
+            Jesus  &rarr;</h1>
+            <Image className={styles.christ} src="/thumbs_up.jpeg" alt="jesus"  width={200} height={200}  />
+            <p>  </p>
+            <p>  </p>
+            <p> ”</p>
+            <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+        </a>
+        
+        <a href="javascript:void(0)" className={styles.card1}>
+         
+         <h1 className={styles.h1}>
+          Jesus &rarr;</h1>
+        <p> </p>
+        <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <Image className={styles.christ} src="/peace_jesus.jpeg" alt="jesus"  width={200} height={200}  />
+        <p> </p>
+        </a>
+
+
+          <a href="javascript:void(0)" className={styles.card1}>
+            <h2 className={styles.h1} >Jesus  &rarr;</h2>
+            <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="jesus"  width={200} height={200}  />
+            <p> </p>
+            <Image className={styles.christ} src="/1-jesus-christ-with-arms-wide-open-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+           
+ </a>
+          
+          <a
+            href="javascript:void(0)"
+            className={styles.card1}
+          >
+            <h2 className={styles.h1}> Jesus  &rarr;</h2>
+          <p></p>
+            <p>
+            <Image className={styles.christ} src="/worship_jesus.jpeg" alt="title" width={200} height={200}  />
+           Sentence goes here
+            </p>
+            <p>  </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            
+          </a>
+
+         
+
+     
+        </div>
+
+
+
+        <p>The</p>
+        <h1 className={styles.p}>Gospel of Mark </h1>
+      <Image className={styles.christ1} src="/peace_jesus.jpeg" alt="title" width={500} height={500}  />
+        
+      
+        
+        <p className={styles.description}>
+          
+          <code className={styles.code}> Mark Chapter 6</code>
+          
+        </p>
+
+
+
+
+
+
+
+        <div className={styles.grid}>
+          <a href="javascript:void(0)" className={styles.card1}>
+         
+            <h1 className={styles.h1}>
+            Jesus  &rarr;</h1>
+            <Image className={styles.christ} src="/thumbs_up.jpeg" alt="jesus"  width={200} height={200}  />
+            <p>  </p>
+            <p>  </p>
+            <p> ”</p>
+            <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+        </a>
+        
+        <a href="javascript:void(0)" className={styles.card1}>
+         
+         <h1 className={styles.h1}>
+          Jesus &rarr;</h1>
+        <p> </p>
+        <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <Image className={styles.christ} src="/peace_jesus.jpeg" alt="jesus"  width={200} height={200}  />
+        <p> </p>
+        </a>
+
+
+          <a href="javascript:void(0)" className={styles.card1}>
+            <h2 className={styles.h1} >Jesus  &rarr;</h2>
+            <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="jesus"  width={200} height={200}  />
+            <p> </p>
+            <Image className={styles.christ} src="/1-jesus-christ-with-arms-wide-open-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+           
+ </a>
+          
+          <a
+            href="javascript:void(0)"
+            className={styles.card1}
+          >
+            <h2 className={styles.h1}> Jesus  &rarr;</h2>
+          <p></p>
+            <p>
+            <Image className={styles.christ} src="/worship_jesus.jpeg" alt="title" width={200} height={200}  />
+           Sentence goes here
+            </p>
+            <p>  </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            
+          </a>
+
+         
+
+     
+        </div>
+
+
+
+
+        <p>The</p>
+        <h1 className={styles.p}>Gospel of Mark </h1>
+      <Image className={styles.christ1} src="/peace_jesus.jpeg" alt="title" width={500} height={500}  />
+        
+      
+        
+        <p className={styles.description}>
+          
+          <code className={styles.code}> Mark Chapter 7</code>
+          
+        </p>
+
+
+
+
+
+
+
+        <div className={styles.grid}>
+          <a href="javascript:void(0)" className={styles.card1}>
+         
+            <h1 className={styles.h1}>
+            Jesus  &rarr;</h1>
+            <Image className={styles.christ} src="/thumbs_up.jpeg" alt="jesus"  width={200} height={200}  />
+            <p>  </p>
+            <p>  </p>
+            <p> ”</p>
+            <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+        </a>
+        
+        <a href="javascript:void(0)" className={styles.card1}>
+         
+         <h1 className={styles.h1}>
+          Jesus &rarr;</h1>
+        <p> </p>
+        <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <Image className={styles.christ} src="/peace_jesus.jpeg" alt="jesus"  width={200} height={200}  />
+        <p> </p>
+        </a>
+
+
+          <a href="javascript:void(0)" className={styles.card1}>
+            <h2 className={styles.h1} >Jesus  &rarr;</h2>
+            <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="jesus"  width={200} height={200}  />
+            <p> </p>
+            <Image className={styles.christ} src="/1-jesus-christ-with-arms-wide-open-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+           
+ </a>
+          
+          <a
+            href="javascript:void(0)"
+            className={styles.card1}
+          >
+            <h2 className={styles.h1}> Jesus  &rarr;</h2>
+          <p></p>
+            <p>
+            <Image className={styles.christ} src="/worship_jesus.jpeg" alt="title" width={200} height={200}  />
+           Sentence goes here
+            </p>
+            <p>  </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            
+          </a>
+
+         
+
+     
+        </div>
+
+
+
+
+        <p>The</p>
+        <h1 className={styles.p}>Gospel of Mark </h1>
+      <Image className={styles.christ1} src="/peace_jesus.jpeg" alt="title" width={500} height={500}  />
+        
+      
+        
+        <p className={styles.description}>
+          
+          <code className={styles.code}> Mark Chapter 8</code>
+          
+        </p>
+
+
+
+
+
+
+
+        <div className={styles.grid}>
+          <a href="javascript:void(0)" className={styles.card1}>
+         
+            <h1 className={styles.h1}>
+            Jesus  &rarr;</h1>
+            <Image className={styles.christ} src="/thumbs_up.jpeg" alt="jesus"  width={200} height={200}  />
+            <p>  </p>
+            <p>  </p>
+            <p> ”</p>
+            <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+        </a>
+        
+        <a href="javascript:void(0)" className={styles.card1}>
+         
+         <h1 className={styles.h1}>
+          Jesus &rarr;</h1>
+        <p> </p>
+        <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <Image className={styles.christ} src="/peace_jesus.jpeg" alt="jesus"  width={200} height={200}  />
+        <p> </p>
+        </a>
+
+
+          <a href="javascript:void(0)" className={styles.card1}>
+            <h2 className={styles.h1} >Jesus  &rarr;</h2>
+            <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="jesus"  width={200} height={200}  />
+            <p> </p>
+            <Image className={styles.christ} src="/1-jesus-christ-with-arms-wide-open-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+           
+ </a>
+          
+          <a
+            href="javascript:void(0)"
+            className={styles.card1}
+          >
+            <h2 className={styles.h1}> Jesus  &rarr;</h2>
+          <p></p>
+            <p>
+            <Image className={styles.christ} src="/worship_jesus.jpeg" alt="title" width={200} height={200}  />
+           Sentence goes here
+            </p>
+            <p>  </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            
+          </a>
+
+         
+
+     
+        </div>
+
+
+
+
+
+
+
+        <p>The</p>
+        <h1 className={styles.p}>Gospel of Mark </h1>
+      <Image className={styles.christ1} src="/peace_jesus.jpeg" alt="title" width={500} height={500}  />
+        
+      
+        
+        <p className={styles.description}>
+          
+          <code className={styles.code}> Mark Chapter 9</code>
+          
+        </p>
+
+
+
+
+
+
+
+        <div className={styles.grid}>
+          <a href="javascript:void(0)" className={styles.card1}>
+         
+            <h1 className={styles.h1}>
+            Jesus  &rarr;</h1>
+            <Image className={styles.christ} src="/thumbs_up.jpeg" alt="jesus"  width={200} height={200}  />
+            <p>  </p>
+            <p>  </p>
+            <p> ”</p>
+            <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+        </a>
+        
+        <a href="javascript:void(0)" className={styles.card1}>
+         
+         <h1 className={styles.h1}>
+          Jesus &rarr;</h1>
+        <p> </p>
+        <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <Image className={styles.christ} src="/peace_jesus.jpeg" alt="jesus"  width={200} height={200}  />
+        <p> </p>
+        </a>
+
+
+          <a href="javascript:void(0)" className={styles.card1}>
+            <h2 className={styles.h1} >Jesus  &rarr;</h2>
+            <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="jesus"  width={200} height={200}  />
+            <p> </p>
+            <Image className={styles.christ} src="/1-jesus-christ-with-arms-wide-open-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+           
+ </a>
+          
+          <a
+            href="javascript:void(0)"
+            className={styles.card1}
+          >
+            <h2 className={styles.h1}> Jesus  &rarr;</h2>
+          <p></p>
+            <p>
+            <Image className={styles.christ} src="/worship_jesus.jpeg" alt="title" width={200} height={200}  />
+           Sentence goes here
+            </p>
+            <p>  </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            
+          </a>
+
+         
+
+     
+        </div>
+
+
+
+
+
+        <p>The</p>
+        <h1 className={styles.p}>Gospel of Mark </h1>
+      <Image className={styles.christ1} src="/peace_jesus.jpeg" alt="title" width={500} height={500}  />
+        
+      
+        
+        <p className={styles.description}>
+          
+          <code className={styles.code}> Mark Chapter 10</code>
+          
+        </p>
+
+
+
+
+
+
+
+        <div className={styles.grid}>
+          <a href="javascript:void(0)" className={styles.card1}>
+         
+            <h1 className={styles.h1}>
+            Jesus  &rarr;</h1>
+            <Image className={styles.christ} src="/thumbs_up.jpeg" alt="jesus"  width={200} height={200}  />
+            <p>  </p>
+            <p>  </p>
+            <p> ”</p>
+            <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+        </a>
+        
+        <a href="javascript:void(0)" className={styles.card1}>
+         
+         <h1 className={styles.h1}>
+          Jesus &rarr;</h1>
+        <p> </p>
+        <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <Image className={styles.christ} src="/peace_jesus.jpeg" alt="jesus"  width={200} height={200}  />
+        <p> </p>
+        </a>
+
+
+          <a href="javascript:void(0)" className={styles.card1}>
+            <h2 className={styles.h1} >Jesus  &rarr;</h2>
+            <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="jesus"  width={200} height={200}  />
+            <p> </p>
+            <Image className={styles.christ} src="/1-jesus-christ-with-arms-wide-open-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+           
+ </a>
+          
+          <a
+            href="javascript:void(0)"
+            className={styles.card1}
+          >
+            <h2 className={styles.h1}> Jesus  &rarr;</h2>
+          <p></p>
+            <p>
+            <Image className={styles.christ} src="/worship_jesus.jpeg" alt="title" width={200} height={200}  />
+           Sentence goes here
+            </p>
+            <p>  </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            
+          </a>
+
+         
+
+     
+        </div>
+
+
+
+
+        <p>The</p>
+        <h1 className={styles.p}>Gospel of Mark </h1>
+      <Image className={styles.christ1} src="/peace_jesus.jpeg" alt="title" width={500} height={500}  />
+        
+      
+        
+        <p className={styles.description}>
+          
+          <code className={styles.code}> Mark Chapter 11</code>
+          
+        </p>
+
+
+
+
+
+
+
+        <div className={styles.grid}>
+          <a href="javascript:void(0)" className={styles.card1}>
+         
+            <h1 className={styles.h1}>
+            Jesus  &rarr;</h1>
+            <Image className={styles.christ} src="/thumbs_up.jpeg" alt="jesus"  width={200} height={200}  />
+            <p>  </p>
+            <p>  </p>
+            <p> ”</p>
+            <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+        </a>
+        
+        <a href="javascript:void(0)" className={styles.card1}>
+         
+         <h1 className={styles.h1}>
+          Jesus &rarr;</h1>
+        <p> </p>
+        <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <Image className={styles.christ} src="/peace_jesus.jpeg" alt="jesus"  width={200} height={200}  />
+        <p> </p>
+        </a>
+
+
+          <a href="javascript:void(0)" className={styles.card1}>
+            <h2 className={styles.h1} >Jesus  &rarr;</h2>
+            <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="jesus"  width={200} height={200}  />
+            <p> </p>
+            <Image className={styles.christ} src="/1-jesus-christ-with-arms-wide-open-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+           
+ </a>
+          
+          <a
+            href="javascript:void(0)"
+            className={styles.card1}
+          >
+            <h2 className={styles.h1}> Jesus  &rarr;</h2>
+          <p></p>
+            <p>
+            <Image className={styles.christ} src="/worship_jesus.jpeg" alt="title" width={200} height={200}  />
+           Sentence goes here
+            </p>
+            <p>  </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            
+          </a>
+
+         
+
+     
+        </div>
+
+
+
+        <p>The</p>
+        <h1 className={styles.p}>Gospel of Mark </h1>
+      <Image className={styles.christ1} src="/peace_jesus.jpeg" alt="title" width={500} height={500}  />
+        
+      
+        
+        <p className={styles.description}>
+          
+          <code className={styles.code}> Mark Chapter 12</code>
+          
+        </p>
+
+
+
+
+
+
+
+        <div className={styles.grid}>
+          <a href="javascript:void(0)" className={styles.card1}>
+         
+            <h1 className={styles.h1}>
+            Jesus  &rarr;</h1>
+            <Image className={styles.christ} src="/thumbs_up.jpeg" alt="jesus"  width={200} height={200}  />
+            <p>  </p>
+            <p>  </p>
+            <p> ”</p>
+            <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+        </a>
+        
+        <a href="javascript:void(0)" className={styles.card1}>
+         
+         <h1 className={styles.h1}>
+          Jesus &rarr;</h1>
+        <p> </p>
+        <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <Image className={styles.christ} src="/peace_jesus.jpeg" alt="jesus"  width={200} height={200}  />
+        <p> </p>
+        </a>
+
+
+          <a href="javascript:void(0)" className={styles.card1}>
+            <h2 className={styles.h1} >Jesus  &rarr;</h2>
+            <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="jesus"  width={200} height={200}  />
+            <p> </p>
+            <Image className={styles.christ} src="/1-jesus-christ-with-arms-wide-open-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+           
+ </a>
+          
+          <a
+            href="javascript:void(0)"
+            className={styles.card1}
+          >
+            <h2 className={styles.h1}> Jesus  &rarr;</h2>
+          <p></p>
+            <p>
+            <Image className={styles.christ} src="/worship_jesus.jpeg" alt="title" width={200} height={200}  />
+           Sentence goes here
+            </p>
+            <p>  </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            
+          </a>
+
+         
+
+     
+        </div>
+
+
+
+
+
+        <p>The</p>
+        <h1 className={styles.p}>Gospel of Mark </h1>
+      <Image className={styles.christ1} src="/peace_jesus.jpeg" alt="title" width={500} height={500}  />
+        
+      
+        
+        <p className={styles.description}>
+          
+          <code className={styles.code}> Mark Chapter 13</code>
+          
+        </p>
+
+
+
+
+
+
+
+        <div className={styles.grid}>
+          <a href="javascript:void(0)" className={styles.card1}>
+         
+            <h1 className={styles.h1}>
+            Jesus  &rarr;</h1>
+            <Image className={styles.christ} src="/thumbs_up.jpeg" alt="jesus"  width={200} height={200}  />
+            <p>  </p>
+            <p>  </p>
+            <p> ”</p>
+            <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+        </a>
+        
+        <a href="javascript:void(0)" className={styles.card1}>
+         
+         <h1 className={styles.h1}>
+          Jesus &rarr;</h1>
+        <p> </p>
+        <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <Image className={styles.christ} src="/peace_jesus.jpeg" alt="jesus"  width={200} height={200}  />
+        <p> </p>
+        </a>
+
+
+          <a href="javascript:void(0)" className={styles.card1}>
+            <h2 className={styles.h1} >Jesus  &rarr;</h2>
+            <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="jesus"  width={200} height={200}  />
+            <p> </p>
+            <Image className={styles.christ} src="/1-jesus-christ-with-arms-wide-open-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+           
+ </a>
+          
+          <a
+            href="javascript:void(0)"
+            className={styles.card1}
+          >
+            <h2 className={styles.h1}> Jesus  &rarr;</h2>
+          <p></p>
+            <p>
+            <Image className={styles.christ} src="/worship_jesus.jpeg" alt="title" width={200} height={200}  />
+           Sentence goes here
+            </p>
+            <p>  </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            
+          </a>
+
+         
+
+     
+        </div>
+
+
+
+
+
+        <p>The</p>
+        <h1 className={styles.p}>Gospel of Mark </h1>
+      <Image className={styles.christ1} src="/peace_jesus.jpeg" alt="title" width={500} height={500}  />
+        
+      
+        
+        <p className={styles.description}>
+          
+          <code className={styles.code}> Mark Chapter 14</code>
+          
+        </p>
+
+
+
+
+
+
+
+        <div className={styles.grid}>
+          <a href="javascript:void(0)" className={styles.card1}>
+         
+            <h1 className={styles.h1}>
+            Jesus  &rarr;</h1>
+            <Image className={styles.christ} src="/thumbs_up.jpeg" alt="jesus"  width={200} height={200}  />
+            <p>  </p>
+            <p>  </p>
+            <p> ”</p>
+            <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+        </a>
+        
+        <a href="javascript:void(0)" className={styles.card1}>
+         
+         <h1 className={styles.h1}>
+          Jesus &rarr;</h1>
+        <p> </p>
+        <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <Image className={styles.christ} src="/peace_jesus.jpeg" alt="jesus"  width={200} height={200}  />
+        <p> </p>
+        </a>
+
+
+          <a href="javascript:void(0)" className={styles.card1}>
+            <h2 className={styles.h1} >Jesus  &rarr;</h2>
+            <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="jesus"  width={200} height={200}  />
+            <p> </p>
+            <Image className={styles.christ} src="/1-jesus-christ-with-arms-wide-open-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+           
+ </a>
+          
+          <a
+            href="javascript:void(0)"
+            className={styles.card1}
+          >
+            <h2 className={styles.h1}> Jesus  &rarr;</h2>
+          <p></p>
+            <p>
+            <Image className={styles.christ} src="/worship_jesus.jpeg" alt="title" width={200} height={200}  />
+           Sentence goes here
+            </p>
+            <p>  </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            
+          </a>
+
+         
+
+     
+        </div>
+
+
+
+
+
+        <p>The</p>
+        <h1 className={styles.p}>Gospel of Mark </h1>
+      <Image className={styles.christ1} src="/peace_jesus.jpeg" alt="title" width={500} height={500}  />
+        
+      
+        
+        <p className={styles.description}>
+          
+          <code className={styles.code}> Mark Chapter 15</code>
+          
+        </p>
+
+
+
+
+
+
+
+        <div className={styles.grid}>
+          <a href="javascript:void(0)" className={styles.card1}>
+         
+            <h1 className={styles.h1}>
+            Jesus  &rarr;</h1>
+            <Image className={styles.christ} src="/thumbs_up.jpeg" alt="jesus"  width={200} height={200}  />
+            <p>  </p>
+            <p>  </p>
+            <p> ”</p>
+            <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+        </a>
+        
+        <a href="javascript:void(0)" className={styles.card1}>
+         
+         <h1 className={styles.h1}>
+          Jesus &rarr;</h1>
+        <p> </p>
+        <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <Image className={styles.christ} src="/peace_jesus.jpeg" alt="jesus"  width={200} height={200}  />
+        <p> </p>
+        </a>
+
+
+          <a href="javascript:void(0)" className={styles.card1}>
+            <h2 className={styles.h1} >Jesus  &rarr;</h2>
+            <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="jesus"  width={200} height={200}  />
+            <p> </p>
+            <Image className={styles.christ} src="/1-jesus-christ-with-arms-wide-open-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+           
+ </a>
+          
+          <a
+            href="javascript:void(0)"
+            className={styles.card1}
+          >
+            <h2 className={styles.h1}> Jesus  &rarr;</h2>
+          <p></p>
+            <p>
+            <Image className={styles.christ} src="/worship_jesus.jpeg" alt="title" width={200} height={200}  />
+           Sentence goes here
+            </p>
+            <p>  </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            
+          </a>
+
+         
+
+     
+        </div>
+
+
+
+        <p>The</p>
+        <h1 className={styles.p}>Gospel of Mark </h1>
+      <Image className={styles.christ1} src="/peace_jesus.jpeg" alt="title" width={500} height={500}  />
+        
+      
+        
+        <p className={styles.description}>
+          
+          <code className={styles.code}> Mark Chapter 16</code>
+          
+        </p>
+
+
+
+
+
+
+
+        <div className={styles.grid}>
+          <a href="javascript:void(0)" className={styles.card1}>
+         
+            <h1 className={styles.h1}>
+            Jesus  &rarr;</h1>
+            <Image className={styles.christ} src="/thumbs_up.jpeg" alt="jesus"  width={200} height={200}  />
+            <p>  </p>
+            <p>  </p>
+            <p> ”</p>
+            <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+        </a>
+        
+        <a href="javascript:void(0)" className={styles.card1}>
+         
+         <h1 className={styles.h1}>
+          Jesus &rarr;</h1>
+        <p> </p>
+        <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <Image className={styles.christ} src="/peace_jesus.jpeg" alt="jesus"  width={200} height={200}  />
+        <p> </p>
+        </a>
+
+
+          <a href="javascript:void(0)" className={styles.card1}>
+            <h2 className={styles.h1} >Jesus  &rarr;</h2>
+            <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="jesus"  width={200} height={200}  />
+            <p> </p>
+            <Image className={styles.christ} src="/1-jesus-christ-with-arms-wide-open-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> </p>
+            <p> </p>
+           
+ </a>
+          
+          <a
+            href="javascript:void(0)"
+            className={styles.card1}
+          >
+            <h2 className={styles.h1}> Jesus  &rarr;</h2>
+          <p></p>
+            <p>
+            <Image className={styles.christ} src="/worship_jesus.jpeg" alt="title" width={200} height={200}  />
+           Sentence goes here
+            </p>
+            <p>  </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            <p> </p>
+            
           </a>
 
          
