@@ -22,8 +22,7 @@ export default function Home() {
         </p>
       <Image className={styles.christ1} src="/paul-writing-letters.jpeg" alt="title" width={1500} height={500}  />
         
-       <h1 className={styles.title}><a href="https://en.wikipedia.org/wiki/Jesus">about Jesus Christ</a>
-        </h1>
+       
         <p className={styles.description}>
           
           <code className={styles.code}> The book of Mark, which stresses facts & actions, rather than themes or topics, is the most exciting account of the life of Christ
@@ -43,7 +42,7 @@ export default function Home() {
          
             <h1 className={styles.h1}>The Beginning of the Gospel &rarr;</h1>
             <p>The beginning of the good news about Jesus the Messiah, the Son of God, as it is written in Isaiah the prophet:</p>
-            <Image className={styles.christ} src="/john_the_baptist.jpeg" alt="title" width={200} height={200}  />
+            <Image className={styles.christ} src="/john_the_baptist2.jpeg" alt="title" width={200} height={200}  />
             <p>“I will send my messenger ahead of you,
     who will prepare your way” “a voice of one calling in the wilderness,
 ‘Prepare the way for the Lord,
@@ -55,7 +54,7 @@ export default function Home() {
             <h2 className={styles.h1} >John the Baptist Prepares the Way &rarr;</h2>
 
             <p>And so John the Baptist appeared in the wilderness, preaching a baptism of repentance for the forgiveness of sins. </p>
-            <Image className={styles.christ} src="/john_the_baptist2.jpeg" alt="title" width={200} height={200}  />
+            <Image className={styles.christ} src="/john_the_baptist.jpeg" alt="title" width={200} height={200}  />
           <p>The whole Judean countryside and all the people of Jerusalem went out to him. Confessing their sins, they were baptized by him in the Jordan River.</p>
           <p>John wore clothing made of camel’s hair, with a leather belt around his waist, and he ate locusts and wild honey.</p>
           </a>
