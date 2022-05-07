@@ -342,7 +342,6 @@ export default function Home() {
         
         <code className={styles.code}> Touch Screen/Reveal Story</code>
         
-        
 
 
 
@@ -354,57 +353,93 @@ export default function Home() {
           <a href="javascript:void(0)" className={styles.card1}>
          
             <h1 className={styles.h1}>
-            Jesus  &rarr;</h1>
-            <Image className={styles.christ} src="/thumbs_up.jpeg" alt="jesus"  width={200} height={200}  />
-            <p>  </p>
-            <p>  </p>
-            <p> ”</p>
-            <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
-            <p> </p>
-            <p> </p>
+            The Parable of the Sower &rarr;</h1>
+           
+           <p> Again Jesus began to teach by the lake.</p> 
+           <p>The crowd that gathered around him was so large that he got into a boat and sat in it out on the lake, while all the people were along the shore at the water’s edge.</p>
+           <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p>He taught them many things by parables, and in his teaching said: “Listen! A farmer went out to sow his seed. As he was scattering the seed, some fell along the path, and the birds came and ate it up. Some fell on rocky places, where it did not have much soil. It sprang up quickly, because the soil was shallow. But when the sun came up, the plants were scorched, and they withered because they had no root. Other seed fell among thorns, which grew up and choked the plants, so that they did not bear grain.</p> 
+           <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+           <p>Still other seed fell on good soil. It came up, grew and produced a crop, some multiplying thirty, some sixty, some a hundred times.” </p>
+            <p> Then Jesus said, “Whoever has ears to hear, let them hear.” </p>
+          
+           
+           
         </a>
-        
+
+
+        <a href="javascript:void(0)" className={styles.card1}>
+       
+       <h1 className={styles.h1}>
+         Ever hearing but Never Understanding &rarr;</h1>
+        <p>When he was alone, the Twelve and the others around him asked him about the parables.  He told them, “The secret of the kingdom of God has been given to you. But to those on the outside everything is said in parables so that,</p>
+           <p className={styles.code}>"they may be ever seeing but never perceiving,
+    and ever hearing but never understanding;
+otherwise they might turn and be forgiven!”
+          </p>
+            <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+            <p> Then Jesus said to them, “Don’t you understand this parable? How then will you understand any parable? </p>
+          <p> The farmer sows the word. Some people are like seed along the path, where the word is sown. As soon as they hear it, Satan comes and takes away the word that was sown in them. Others, like seed sown on rocky places, hear the word and at once receive it with joy. But since they have no root, they last only a short time. When trouble or persecution comes because of the word, they quickly fall away. Still others, like seed sown among thorns, hear the word; but the worries of this life, the deceitfulness of wealth and the desires for other things come in and choke the word, making it unfruitful. Others, like seed sown on good soil, hear the word, accept it, and produce a crop—some thirty, some sixty, some a hundred times what was sown.”</p>
+        </a>
+
+
+
+
+
+        <a href="javascript:void(0)" className={styles.card1}>
+       
+       <h1 className={styles.h1}>
+         A Lamp on a Stand &rarr;</h1>
+         <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+         <p> He said to them, “Do you bring in a lamp to put it under a bowl or a bed? Instead, don’t you put it on its stand?</p>
+        <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+       
+        <p> For whatever is hidden is meant to be disclosed, and whatever is concealed is meant to be brought out into the open.</p>
+        <p> If anyone has ears to hear, let them hear.”</p>
+        <p> “Consider carefully what you hear,” he continued. “With the measure you use, it will be measured to you—and even more.</p>
+        <Image className={styles.christ} src="/peace_jesus.jpeg" alt="jesus"  width={200} height={200}  />
+        <p> Whoever has will be given more; whoever does not have, even what they have will be taken from them.”</p>
+
+        <h2 className={styles.h1}>  The Parable of the Growing Seed &rarr;</h2>
+
+<p> He also said, “This is what the kingdom of God is like. A man scatters seed on the ground.</p>
+ <p> Night and day, whether he sleeps or gets up, the seed sprouts and grows, though he does not know how. </p>
+  <p>
+  <Image className={styles.christ} src="/worship_jesus.jpeg" alt="title" width={200} height={200}  />
+  All by itself the soil produces grain—first the stalk, then the head, then the full kernel in the head.
+  </p>
+  <p>  As soon as the grain is ripe, he puts the sickle to it, because the harvest has come.”</p>
+  
+        </a>
+          
         <a href="javascript:void(0)" className={styles.card1}>
          
          <h1 className={styles.h1}>
-          Jesus &rarr;</h1>
-        <p> </p>
-        <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
-        <p> </p>
-        <p> </p>
-        <p> </p>
-        <Image className={styles.christ} src="/peace_jesus.jpeg" alt="jesus"  width={200} height={200}  />
-        <p> </p>
-        </a>
+         The Parable of the Mustard Seed  &rarr;</h1>
+         <Image className={styles.christ} src="/thumbs_up.jpeg" alt="jesus"  width={200} height={200}  />
+         <p>  Again he said, “What shall we say the kingdom of God is like, or what parable shall we use to describe it?</p>
+         <p>  It is like a mustard seed, which is the smallest of all seeds on earth.</p>
+         <p> Yet when planted, it grows and becomes the largest of all garden plants, with such big branches that the birds can perch in its shade.”</p>
+         <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+         <p> With many similar parables Jesus spoke the word to them, as much as they could understand.</p>
+         <p> He did not say anything to them without using a parable. But when he was alone with his own disciples, he explained everything.</p>
+     </a>
+     
+     <a href="javascript:void(0)" className={styles.card1}>
+      
+      <h1 className={styles.h1}>
+      Jesus Calms the Storm &rarr;</h1>
+     <p> That day when evening came, he said to his disciples, “Let us go over to the other side.” </p>
+     <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
+     <p> Leaving the crowd behind, they took him along, just as he was, in the boat. There were also other boats with him. </p>
+     <p> A furious squall came up, and the waves broke over the boat, so that it was nearly swamped.</p>
+     <p> Jesus was in the stern, sleeping on a cushion. The disciples woke him and said to him, “Teacher, don’t you care if we drown?”</p>
+     <Image className={styles.christ} src="/peace_jesus.jpeg" alt="jesus"  width={200} height={200}  />
+     <p> He got up, rebuked the wind and said to the waves, “Quiet! Be still!” Then the wind died down and it was completely calm.</p>
+     <p> He said to his disciples, “Why are you so afraid? Do you still have no faith?” They were terrified and asked each other, “Who is this? Even the wind and the waves obey him!”</p>
+     </a>
 
 
-          <a href="javascript:void(0)" className={styles.card1}>
-            <h2 className={styles.h1} >Jesus  &rarr;</h2>
-            <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="jesus"  width={200} height={200}  />
-            <p> </p>
-            <Image className={styles.christ} src="/1-jesus-christ-with-arms-wide-open-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
-            <p> </p>
-            <p> </p>
-           
- </a>
-          
-          <a
-            href="javascript:void(0)"
-            className={styles.card1}
-          >
-            <h2 className={styles.h1}> Jesus  &rarr;</h2>
-          <p></p>
-            <p>
-            <Image className={styles.christ} src="/worship_jesus.jpeg" alt="title" width={200} height={200}  />
-           Sentence goes here
-            </p>
-            <p>  </p>
-            <p> </p>
-            <p> </p>
-            <p> </p>
-            <p> </p>
-            
-          </a>
 
          
 
@@ -433,33 +468,7 @@ export default function Home() {
 
 
         <div className={styles.grid}>
-          <a href="javascript:void(0)" className={styles.card1}>
-         
-            <h1 className={styles.h1}>
-            Jesus  &rarr;</h1>
-            <Image className={styles.christ} src="/thumbs_up.jpeg" alt="jesus"  width={200} height={200}  />
-            <p>  </p>
-            <p>  </p>
-            <p> ”</p>
-            <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
-            <p> </p>
-            <p> </p>
-        </a>
         
-        <a href="javascript:void(0)" className={styles.card1}>
-         
-         <h1 className={styles.h1}>
-          Jesus &rarr;</h1>
-        <p> </p>
-        <Image className={styles.christ} src="/2-jesus-christ-praying-on-his-knees-cartoon-clipart.jpeg" alt="title" width={200} height={200}  />
-        <p> </p>
-        <p> </p>
-        <p> </p>
-        <Image className={styles.christ} src="/peace_jesus.jpeg" alt="jesus"  width={200} height={200}  />
-        <p> </p>
-        </a>
-
-
           <a href="javascript:void(0)" className={styles.card1}>
             <h2 className={styles.h1} >Jesus  &rarr;</h2>
             <Image className={styles.christ} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="jesus"  width={200} height={200}  />

@@ -1,11 +1,12 @@
 .container {
     padding: 0 2rem;
-    background-image: url(/clouds-rain.gif);
+    background-image: url(/sky-clouds2.gif);
+    background-repeat: repeat;
 }
 
 .main {
     min-height: 100vh;
-    padding: 4rem 0;
+    margin: 0 auto;
     flex: 1;
     display: flex;
     flex-direction: column;
