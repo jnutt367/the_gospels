@@ -20,7 +20,7 @@ export default function Home() {
           of Jesus life. It is believed that he is the same person who worked for many years as a missionary with Paul & Barnabas.</code>
           
         </p>
-      <Image className={styles.christ1} src="/paul-writing-letters.jpeg" alt="title" width={1500} height={500}  />
+      <Image className={styles.christ1} src="/paul-writing-letters.jpeg" alt="title" width={500} height={500}  />
         
        
         <p className={styles.description}>
@@ -34,15 +34,15 @@ export default function Home() {
         <p className={styles.description}>
           
           <code className={styles.code}> Mark Chapter 1</code>
-          
+        
         </p>
-
+        <code className={styles.code}> Touch Screen/Reveal Story</code>
         <div className={styles.grid}>
           <a href="javascript:void(0)" className={styles.card1}>
          
             <h1 className={styles.h1}>The Beginning of the Gospel &rarr;</h1>
             <p>The beginning of the good news about Jesus the Messiah, the Son of God, as it is written in Isaiah the prophet:</p>
-            <Image className={styles.christ} src="/john_the_baptist2.jpeg" alt="title" width={200} height={200}  />
+            <Image className={styles.christ} src="/john_in_the_wild.jpeg" alt="title" width={200} height={200}  />
             <p>“I will send my messenger ahead of you,
     who will prepare your way” “a voice of one calling in the wilderness,
 ‘Prepare the way for the Lord,
@@ -54,7 +54,7 @@ export default function Home() {
             <h2 className={styles.h1} >John the Baptist Prepares the Way &rarr;</h2>
 
             <p>And so John the Baptist appeared in the wilderness, preaching a baptism of repentance for the forgiveness of sins. </p>
-            <Image className={styles.christ} src="/john_the_baptist.jpeg" alt="title" width={200} height={200}  />
+            <Image className={styles.christ} src="/john.jpeg" alt="title" width={200} height={200}  />
           <p>The whole Judean countryside and all the people of Jerusalem went out to him. Confessing their sins, they were baptized by him in the Jordan River.</p>
           <p>John wore clothing made of camel’s hair, with a leather belt around his waist, and he ate locusts and wild honey.</p>
           </a>
@@ -67,7 +67,7 @@ export default function Home() {
             <p>And this was his message: “After me comes the one more powerful than I, the straps of whose sandals I am not worthy to stoop down and untie.</p>
             <p>I baptize you with water, but he will baptize you with the Holy Spirit.”</p>
             <p>
-            <Image className={styles.christ} src="/jesus-baptism-main.jpeg" alt="title" width={200} height={200}  />
+            <Image className={styles.christ} src="/john_the_baptist.jpeg" alt="title" width={200} height={200}  />
             At that time Jesus came from Nazareth in Galilee and was baptized by John in the Jordan.
             </p>
             <p>Just as Jesus was coming up out of the water, he saw heaven being torn open and the Spirit descending on him like a dove.</p>
@@ -164,18 +164,17 @@ export default function Home() {
 
      
         </div>
-<p>The</p>
-        <h1 className={styles.p}>Gospel of Mark </h1>
-      <Image className={styles.christ1} src="/paul-writing-letters.jpeg" alt="title" width={1500} height={500}  />
-        
-      
-        
         <p className={styles.description}>
           
           <code className={styles.code}> Mark Chapter 2</code>
           
         </p>
-
+        
+      <Image className={styles.christ1} src="/paul-writing-letters.jpeg" alt="title" width={500} height={500}  />
+        
+      <code className={styles.code}> Touch Screen/Reveal Story</code>
+        
+        
 
 
 
@@ -249,18 +248,16 @@ export default function Home() {
 
 
 
-
-<p>The</p>
-        <h1 className={styles.p}>Gospel of Mark </h1>
-      <Image className={styles.christ1} src="/paul-writing-letters.jpeg" alt="title" width={1500} height={500}  />
-        
-      
-        
         <p className={styles.description}>
           
           <code className={styles.code}> Mark Chapter 3</code>
           
         </p>
+      <Image className={styles.christ1} src="/paul-writing-letters.jpeg" alt="title" width={500} height={500}  />
+      <code className={styles.code}> Touch Screen/Reveal Story</code>
+      
+        
+        
 
 
 
@@ -336,17 +333,16 @@ export default function Home() {
 
 
 
-    <p>The</p>
-        <h1 className={styles.p}>Gospel of Mark </h1>
-      <Image className={styles.christ1} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
-        
-      
-        
         <p className={styles.description}>
           
           <code className={styles.code}> Mark Chapter 4</code>
           
         </p>
+        <Image className={styles.christ1} src="/paul-writing-letters.jpeg" alt="title" width={500} height={500}  />
+        
+        <code className={styles.code}> Touch Screen/Reveal Story</code>
+        
+        
 
 
 
@@ -418,17 +414,17 @@ export default function Home() {
 
 
 
-        <p>The</p>
-        <h1 className={styles.p}>Gospel of Mark </h1>
-      <Image className={styles.christ1} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
-        
-      
-        
+       
         <p className={styles.description}>
           
           <code className={styles.code}> Mark Chapter 5</code>
           
         </p>
+        <Image className={styles.christ1} src="/paul-writing-letters.jpeg" alt="title" width={500} height={500}  />
+        
+        <code className={styles.code}> Touch Screen/Reveal Story</code>
+        
+       
 
 
 
@@ -499,18 +495,15 @@ export default function Home() {
 
 
 
-        <p>The</p>
-        <h1 className={styles.p}>Gospel of Mark </h1>
-      <Image className={styles.christ1} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
-        
-      
-        
         <p className={styles.description}>
           
           <code className={styles.code}> Mark Chapter 6</code>
           
         </p>
 
+      <Image className={styles.christ1} src="/paul-writing-letters.jpeg" alt="title" width={500} height={500}  />
+        
+      <code className={styles.code}> Touch Screen/Reveal Story</code>
 
 
 
@@ -581,20 +574,15 @@ export default function Home() {
 
 
 
-        <p>The</p>
-        <h1 className={styles.p}>Gospel of Mark </h1>
-      <Image className={styles.christ1} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
-        
-      
-        
         <p className={styles.description}>
           
           <code className={styles.code}> Mark Chapter 7</code>
           
         </p>
 
-
-
+      <Image className={styles.christ1} src="/paul-writing-letters.jpeg" alt="title" width={500} height={500}  />
+        
+      <code className={styles.code}> Touch Screen/Reveal Story</code>
 
 
 
@@ -663,20 +651,16 @@ export default function Home() {
 
 
 
-        <p>The</p>
-        <h1 className={styles.p}>Gospel of Mark </h1>
-      <Image className={styles.christ1} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
-        
-      
-        
         <p className={styles.description}>
           
           <code className={styles.code}> Mark Chapter 8</code>
           
         </p>
 
+      <Image className={styles.christ1} src="/paul-writing-letters.jpeg" alt="title" width={500} height={500}  />
+        
 
-
+      <code className={styles.code}> Touch Screen/Reveal Story</code>
 
 
 
@@ -748,20 +732,16 @@ export default function Home() {
 
 
 
-        <p>The</p>
-        <h1 className={styles.p}>Gospel of Mark </h1>
-      <Image className={styles.christ1} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
-        
-      
-        
         <p className={styles.description}>
           
           <code className={styles.code}> Mark Chapter 9</code>
           
         </p>
 
+      <Image className={styles.christ1} src="/paul-writing-letters.jpeg" alt="title" width={500} height={500}  />
+        
 
-
+      <code className={styles.code}> Touch Screen/Reveal Story</code>
 
 
 
@@ -830,20 +810,16 @@ export default function Home() {
 
 
 
-
-        <p>The</p>
-        <h1 className={styles.p}>Gospel of Mark </h1>
-      <Image className={styles.christ1} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
-        
-      
-        
         <p className={styles.description}>
           
           <code className={styles.code}> Mark Chapter 10</code>
           
         </p>
 
+      <Image className={styles.christ1} src="/paul-writing-letters.jpeg" alt="title" width={500} height={500}  />
+        
 
+      <code className={styles.code}> Touch Screen/Reveal Story</code>
 
 
 
@@ -913,20 +889,16 @@ export default function Home() {
 
 
 
-        <p>The</p>
-        <h1 className={styles.p}>Gospel of Mark </h1>
-      <Image className={styles.christ1} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
-        
-      
-        
         <p className={styles.description}>
           
           <code className={styles.code}> Mark Chapter 11</code>
           
         </p>
 
+      <Image className={styles.christ1} src="/paul-writing-letters.jpeg" alt="title" width={500} height={500}  />
+        
 
-
+      <code className={styles.code}> Touch Screen/Reveal Story</code>
 
 
 
@@ -994,18 +966,15 @@ export default function Home() {
 
 
 
-        <p>The</p>
-        <h1 className={styles.p}>Gospel of Mark </h1>
-      <Image className={styles.christ1} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
-        
-      
-        
         <p className={styles.description}>
           
           <code className={styles.code}> Mark Chapter 12</code>
           
         </p>
 
+      <Image className={styles.christ1} src="/paul-writing-letters.jpeg" alt="title" width={500} height={500}  />
+        
+      <code className={styles.code}> Touch Screen/Reveal Story</code>
 
 
 
@@ -1077,19 +1046,16 @@ export default function Home() {
 
 
 
-        <p>The</p>
-        <h1 className={styles.p}>Gospel of Mark </h1>
-      <Image className={styles.christ1} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
-        
-      
-        
         <p className={styles.description}>
           
-          <code className={styles.code}> Mark Chapter 13</code>
+          <code className={styles.code}> Mark Chapter13</code>
           
         </p>
 
+      <Image className={styles.christ1} src="/paul-writing-letters.jpeg" alt="title" width={500} height={500}  />
+        
 
+      <code className={styles.code}> Touch Screen/Reveal Story</code>
 
 
 
@@ -1160,19 +1126,16 @@ export default function Home() {
 
 
 
-        <p>The</p>
-        <h1 className={styles.p}>Gospel of Mark </h1>
-      <Image className={styles.christ1} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
-        
-      
-        
         <p className={styles.description}>
           
           <code className={styles.code}> Mark Chapter 14</code>
           
         </p>
 
+      <Image className={styles.christ1} src="/paul-writing-letters.jpeg" alt="title" width={500} height={500}  />
+        
 
+      <code className={styles.code}> Touch Screen/Reveal Story</code>
 
 
 
@@ -1243,19 +1206,16 @@ export default function Home() {
 
 
 
-        <p>The</p>
-        <h1 className={styles.p}>Gospel of Mark </h1>
-      <Image className={styles.christ1} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
-        
-      
-        
         <p className={styles.description}>
           
           <code className={styles.code}> Mark Chapter 15</code>
           
         </p>
 
+      <Image className={styles.christ1} src="/paul-writing-letters.jpeg" alt="title" width={500} height={500}  />
+        
 
+      <code className={styles.code}> Touch Screen/Reveal Story</code>
 
 
 
@@ -1324,19 +1284,16 @@ export default function Home() {
 
 
 
-        <p>The</p>
-        <h1 className={styles.p}>Gospel of Mark </h1>
-      <Image className={styles.christ1} src="/6-sad-jesus-christ-cartoon-clipart.jpeg" alt="title" width={500} height={500}  />
-        
-      
-        
         <p className={styles.description}>
           
           <code className={styles.code}> Mark Chapter 16</code>
           
         </p>
 
+      <Image className={styles.christ1} src="/paul-writing-letters.jpeg" alt="title" width={500} height={500}  />
+        
 
+      <code className={styles.code}> Touch Screen/Reveal Story</code>
 
 
 
