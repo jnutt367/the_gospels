@@ -26,7 +26,9 @@ export default function Home() {
         <p className={styles.description}>
           
           <code className={styles.code}> The book of Mark, which stresses facts & actions, rather than themes or topics, is the most exciting account of the life of Christ
-                   among the Gospels. Although it is the shortest of the Gospels, it is often the most detailed. From the beginning, Mark tells the stories of Christs ministry, especially his miracles.
+                   among the Gospels.</code>
+
+          <code className={styles.code}>  Although it is the shortest of the Gospels, it is often the most detailed. From the beginning, Mark tells the stories of Christs ministry, especially his miracles.
                    Mark shows Jesus as a man of action & authority. He spends one third of the book telling the events of Christs last week on earth, ending with the Saviors death & resurrection.
           </code>
           
