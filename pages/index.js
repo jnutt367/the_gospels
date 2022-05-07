@@ -37,6 +37,7 @@ export default function Home() {
         
         </p>
         <code className={styles.code}> Touch Screen/Reveal Story</code>
+   
         <div className={styles.grid}>
           <a href="javascript:void(0)" className={styles.card1}>
          
