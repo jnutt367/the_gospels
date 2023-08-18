@@ -1,21 +1,141 @@
-.container {
-    padding: 0 2rem;
-    background-image: url(/giphy.gif);
-    background-repeat: repeat;
+/*.container {
+    
     background-color: black;
+    background-repeat: no-repeat;
+    position: relative;
+}
+*/
+
+.container {
+  background-color: black;
+  width: 100%;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  position: relative;
 }
 
+
+
+.holy {
+  backgroud-color: black;
+  color: white;
+  font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+  position: relative;
+  z-index:10;
+  top: 12px;
+  font-size: 36px;
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  padding-left: 5px;
+  tex-align: left;
+}
+.bible {
+ position: relative;
+  top: -37px;
+  z-index: 10;
+  margin-top: 0;
+  font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
+  color: white;
+  font-size: 52px;
+  padding-left: 5px;
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  tex-align: left;
+}
+.red:active,
+.red:focus,
+.red:hover {
+    color: ;
+}
+/*
 .main {
+    background-color: black;
     min-height: 100vh;
-    margin: 0 auto;
+    max-width: 900px;
+    padding: 4rem 0;
     flex: 1;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: transparent;
-    color: silver;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+*/
+.main {
+  display: grid;
+  align-items: center;
+  justify-content: center;  
+  background-color:  black;
+  min-height: 100vh;  
+  padding: 4rem 0;
+  position:relative;
+  top: 10px;
+}
+.iframe {
+       width: 100%;
+}
+.fund {
+   text-align: center;
+    color: black;
+    position: relative;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-top: 25px;
+    top: 5px;
+    font-family:"Times New Roman", Times, serif;
+    font-weight: 900;
+}
+.parables {
+    display: grid;
+    text-align: center;
+    color: white;
+    position: relative;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-top: 25px;
+    top: -15px;
+    font-family: Ariel, sans, sans-serif, "Times New Roman", Times, serif;
+    font-weight: 200;
+}
+.image {
+    /*background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);*/
+    text-align: center;
+    background-color: black;
+    opacity: 0.5;
+    margin-top: -50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    display: grid;
+    place-items: center;
+    align-items: center;
+    justify-content: center;
+    max-height: 900px; 
+    alig-items: center;
+    opacity: 1;
+}
+.book {
+    text-align: center;
+    font-family: fantasy, cursive, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.donate {
+  background-color:white;
+  opacity: 0.8;
+  color: black;
+  font-family: fantasy, cursive, Times New Roman, monospace;
+  height: 28pxpx;
+  border-radius: 10px;
+  padding: 5px;
+  top: -25px;
+  
+}
+.donate:hover,
+.donate:focus,
+.donate:active {
+  background-color: black;
+  color: whitesmoke;
 }
 
 .footer {
@@ -26,51 +146,94 @@
     justify-content: center;
     align-items: center;
 }
-
+.hero {
+  max-width: 1350px;
+  position:relative;
+  top: -105px;
+}
+.arrow {
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+}
 .footer a {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center;   
     flex-grow: 1;
 }
 
-.christ {
-    padding: 100px;
-    border-radius: 50%;
+.nav ul {
+    display: flex;
+    flex-basis: auto;
+    color: #fafafa;
+    justify-content: space-around;
+    list-style: none;
+    font-size: xx-large;
+    padding-top: 3rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.christ1 {
-    opacity: 1;
-    transition: color 5s ease, border-color 0.15s ease;
+.donateButton {
+    width: 200px;
 }
 
-.christ1:hover,
-.christ1:focus,
-.christ1:active {
-    opacity: 1;
-    transition: color 5s ease, border-color 0.15s ease;
+.donateButton:hover {
+    color: white;
+    cursor: pointer;
 }
 
 .title a {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
     text-decoration: none;
-    font-size: 0.6em;
+    padding: 2rem;
+    opacity: 0.9;
+    text-shadow: 1px 1px white;
 }
 
 .title a:hover,
 .title a:focus,
 .title a:active {
-    text-decoration: underline double;
-    color: rgb(8, 49, 54);
-    border-color: rgb(6, 48, 44);
-    font-size: 0.8em;
+    text-shadow: 1px 1px white;
+    opacity: 1;
 }
 
-.title {
-    margin: 0;
-    line-height: 1.15;
-    font-size: 4rem;
+.titleSpan {
+    font-size: x-large;
+    float: right;
+    padding: 2rem;
+    padding-right: 5rem;
+    text-shadow: 2px 2px white;
+    position: relative;
+    top: 2rem;
+    right: 12rem;
 }
+
+
+.title {
+  color: white;
+  position: sticky; 
+  background-color: black;
+  opacity: 0.5;
+  padding-top: 40px;
+  z-index: 2;
+  top: -45px;
+  margin-top: -120px;
+  font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+  font-size: 64px;
+}
+
+.instructions {
+  text-align: center;
+  color: black;
+  position: relative;
+  top: 10px;
+  margin-top: 0;
+  font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+  font-size: 14px;
+  margin-bottom: 0.5rem;
+}
+
 
 .title,
 .description {
@@ -78,120 +241,453 @@
 }
 
 .description {
-    margin: 4rem 0;
+    text-shadow: 1px 1px black;
+    color:white;
+    padding: 2rem;
+    padding-right: 3rem;
+    margin: 0rem 0;
     line-height: 1.5;
-    font-size: 1.5rem;
+    font-size: 1rem;
+    max-width: 60rem;
 }
 
-.code {
-    padding-left: 2rem;
-    padding-right: 2rem;
-    margin: 2rem;
-    background: transparent;
-    opacity: 0.6;
-    border-radius: 5px;
-    font-size: 1.5rem;
-    font-family: cursive;
-}
 
-.code:hover,
-.code:focus,
-.code:active {
+
+.button:hover {
+    color: black;
+    background-color:#CBC3E3;
+    opacity: 0.7;
+    text-shadow: 1px 1px black;
     opacity: 1;
-    color: green;
-    background-color: white;
+    border-style: 2px inset black;
+    cursor:pointer;
+}
+
+
+
+.span:hover {
+    color: #880808;
+}
+
+.nav {
+    background-color: black;
+    border: 1px solid gold;
+    opacity: 1;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: sticky;
+}
+
+
+.nav2 {
+    background-color: #37ADA2;
+    color: white;
+    opacity: 1;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: sticky;
+}
+
+.nav3 {
+    background-color: #69282C;
+    color: white;
+    opacity: 1;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: sticky;
+}
+
+.nav2 a:hover {
+    scale: 1.1;
+    background-color: black;
+    opacity: 0.8;
+    border: 2px dotted whitesmoke;
+    border-radius: 50%;
+}
+
+
+.nav3 a:hover {
+     scale: 1.1;
+    background-color: black;
+    opacity: 0.8;
+    border: 2px dotted #69282C;
+    border-radius: 50%;
+}
+
+.nav a:hover {
+    scale: 1.1;
+    background-color: black;
+    opacity: 0.9;
+    border: 2px dotted whitesmoke;
+    border-radius: 50%;
+}
+
+
+.button {
+    color: white;
+    height: 30px;
+    width: 70px;
+    font-size: 7px;
+    border-radius: 50px 20px;
+    background-color: #b37400;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 5px;
+    margin-bottom: 75px;
 }
 
 .grid {
+    background-color: black;
+    color: white;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    max-width: 1800px;
+}
+.h4  {
+    font-family: cursive, Ariel, serif;
+    font-weight: 700;
+    font-size: 2rem;
+}
+.grid2 {
+    background-color: #37ADA2;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;   
+}
+
+.grid3 {
+    background-color: #69282C;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;   
+}
+
+
+
+
+.h2 {
+    background-image: none;
+    opacity: 0.9;
+    background-size: cover;
+    margin-top: 0rem;
+    padding: 2rem;
+    text-align: left;
+    font-size: larger;
+    color: black;
+    text-decoration: none;
+    transition: color .5s ease, border-color 0.15s ease;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.h2:hover {
+    color: white;
+    border-color: hsl(184, 42%, 62%);
+    text-decoration: dashed;
+    background-color: black;
+    opacity: 0.85;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .card {
-    margin: 1rem;
-    padding: 1.5rem;
+    background-image: url(/genesis.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-x: center;
+    background-position-y: center;
+    background-origin: content-box;
+    background-size: cover;
+    display: grid;
+    place-items: center;
+    background-repeat: no-repeat;
+    color: transparent;
+    margin: 1.5rem;
+    margin-bottom: 5rem;
+    padding: 0rem;
+    padding-top: -25px;
     text-align: left;
-    color: inherit;
+    max-height: 400px;
+    max-width: 400px;
+    background-color: black;
+    border-radius: 15px 50px 30px;
+    overflow: hidden;
     text-decoration: none;
-    border: 1px solid #eaeaea;
-    border-radius: 10px;
-    transition: color 5s ease, border-color 0.15s ease;
-    max-width: 300px;
-    color: aliceblue;
-    background-color: aliceblue;
-    opacity: 1;
+    border: 3px solid #eaeaea;
+    transition: color 0.15s ease, border-color 0.7s ease;
+    font-family: monospace;
+    box-shadow: lightblue 0px 5px 15px;
 }
 
-.card1 {
-    margin: 1rem;
-    padding: 1.5rem;
+.card2 {
+    background-image: url(/genesis2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-x: center;
+    background-position-y: center;
+    background-origin: content-box;
+    background-size: cover;
+    display: grid;
+    place-items: center;
+    background-repeat: no-repeat;
+    color: transparent;
+    margin: 1.5rem;
+    margin-bottom: 5rem;
+    padding: 0rem;
+    padding-top: -25px;
     text-align: left;
-    color: inherit;
+    max-height: 400px;
+    max-width: 400px;
+    background-color: black;
+    border-radius: 15px 50px 30px;
+    overflow: hidden;
     text-decoration: none;
-    border: 1px solid #eaeaea;
-    border-radius: 10px;
-    transition: color 2s ease, border-color 0.15s ease;
-    max-width: 300px;
-    color: aliceblue;
+    border: 3px solid #eaeaea;
+    transition: color 0.15s ease, border-color 0.7s ease;
     font-family: monospace;
-    background-color: aliceblue;
-    opacity: 0;
+    box-shadow: lightblue 0px 5px 15px;
 }
+
+.card3 {
+    background-image: url(/mt_horeb.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-x: center;
+    background-position-y: center;
+    background-origin: content-box;
+    background-size: cover;
+    display: grid;
+    place-items: center;
+    background-repeat: no-repeat;
+    color: transparent;
+    margin: 1.5rem;
+    margin-bottom: 5rem;
+    padding: 0rem;
+    padding-top: -25px;
+    text-align: left;
+    max-height: 400px;
+    max-width: 400px;
+    background-color: black;
+    border-radius: 15px 50px 30px;
+    overflow: hidden;
+    text-decoration: none;
+    border: 3px solid #eaeaea;
+    transition: color 0.15s ease, border-color 0.7s ease;
+    font-family: monospace;
+    box-shadow: lightblue 0px 5px 15px;
+}
+
+.chapter {
+    background-color: black;
+    color: white;
+    opacity: 0.8;
+    opacity: 1;
+    position: sticky;
+    z-index: 1;
+    width: 100%;
+    text-align: center;
+    top: 0px;
+    margin: 0;
+    padding-top: 25px;
+    padding-bottom: 5px;
+    font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+}
+
+.chapter2 {
+
+    background-color: #37ADA2;
+    color: white;
+    opacity: 0.8;
+    opacity: 1;
+    position: sticky;
+    z-index: 1;
+    width: 100%;
+    font-weight: 200;
+    text-align: center;
+    top: 0px;
+    margin: 0;
+    padding-top: 25px;
+    padding-bottom: 5px;
+    font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+}
+
+
+
+
+.chapter3 {
+
+    background-color: black;
+    color: white;
+    opacity: 0.7;
+    position: sticky;
+    z-index: 1;
+    width: 100%;
+    font-weight: 200;
+    text-align: center;
+    top: 0px;
+    margin: 0;
+    padding-top: 25px;
+    padding-bottom: 5px;
+    font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+}
+
+
 
 .card:hover,
 .card:focus,
 .card:active {
+    display: inline;
     color: black;
-    border-color: rgb(6, 48, 44);
-    background-color: black;
-    color: #eaeaea;
-}
-
-.card1:hover,
-.card1:focus,
-.card1:active {
-    color: black;
-    border-color: rgb(6, 48, 44);
-    background-color: black;
-    color: #eaeaea;
-    opacity: 0.8;
+    opacity: 1;
+    border: 6px solid white;
+    background-image: url(/paper.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: all-scroll;
+    background-color: white;
+    overflow: scroll;
+    font-family: monospace;
 }
 
 .card h2 {
     margin: 0 0 1rem 0;
     font-size: 1.5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.card p,
-.card1 p {
+.card h2:hover {
+    color: white;
+}
+
+.card p {
     margin: 0;
-    padding: 1em;
+    padding: 1.5rem;
     font-size: 1.25rem;
     line-height: 1.5;
+    font-family: monospace;
 }
 
-.card1 h2 {
+.card p:hover {
+    font-weight: 900;
+}
+.chapter:hover,
+.chapter:active,
+.chapter:focus {
+       color: white;
+}
+
+.card2:hover,
+.card2:focus,
+.card2:active {
+    display: inline;
+    color: black;
+    opacity: 0.9;
+    border: 6px solid black;
+    background-image: url(/paper.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: all-scroll;
+    overflow: scroll;
+    font-family: monospace;
+}
+
+
+.card3 h2 {
     margin: 0 0 1rem 0;
     font-size: 1.5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.card1 p {
+.card2 h2:hover {
+    color: black;
+}
+
+.card2 p {
     margin: 0;
+    padding: 1.5rem;
     font-size: 1.25rem;
     line-height: 1.5;
+    font-family: monospace;
 }
 
-.h1 {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 2em;
+.card2 p:hover {
+    font-weight: 900;
 }
+
+
+
+
+
+
+
+.card3:hover,
+.card3:focus,
+.card3:active {
+    display: inline;
+    color: black;
+    opacity: 0.9;
+    border: 6px solid black;
+    background-image: url(/paper.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: all-scroll;
+    overflow: scroll;
+    font-family: monospace;
+}
+
+
+.card3 h2 {
+    margin: 0 0 1rem 0;
+    font-size: 1.5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.card3 h2:hover {
+    color: black;
+}
+
+.card3 p {
+    margin: 0;
+    padding: 1.5rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    font-family: monospace;
+}
+
+.card3 p:hover {
+    font-weight: 900;
+}
+
+
+
+
 
 .logo {
     height: 1em;
     margin-left: 0.5rem;
+}
+
+.flex {
+    margin-top: -100px;
+    padding-top: 1rem;
+    padding-bottom: 0rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+.publisher {
+    font-family: Arial, Verdana, Tahoma, Trebuchet MS, Times New Roman, Georgia, Garamond, Courier New, Brush Script MT; 
+    color: white;
+    text-align: center;
 }
 
 @media (max-width: 600px) {
@@ -199,7 +695,77 @@
         width: 100%;
         flex-direction: column;
     }
-    .card1 {
-        width: 900px;
+   
+}
+
+@media (max-width: 769px) {
+    .nav ul {
+        display: none;
+        color: #fafafa;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        margin-left: -2rem;
     }
+    
+}
+
+@media (min-width: 769x) {
+     .fund {
+        padding-right: 120px;
+        padding-left: 120px; 
+    }
+}
+@media (min-width: 1080px) {
+         .image {
+        padding-left: 200px;
+        padding-right: 200px;
+        margin-left: 100px; 
+        margin-right: 100px;      
+    }
+   
+        .grid {
+        grid-template-columns: 200px 200px 200px;
+        
+    }
+    .iframe {
+        padding-left: 200px;
+        padding-right: 200px;
+    }
+}
+   
+
+
+@media (max-width: 769px) {
+    .flex {
+        display: grid;
+    }
+    .image {
+        padding: 0;
+        border: none;
+    }
+    .holy {
+         display: block;
+         padding: 0;
+         text-align: left;
+         top: 10px;
+    }
+    .bible {
+        display: block;
+        padding: 0;
+        text-align: left;
+        top: -40px;
+    }
+    .title  {
+    font-size: 36px;
+    }
+    .card {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+ .card2 {
+        margin-right: 0;
+        margin-left: 0;
+    }    
 }
